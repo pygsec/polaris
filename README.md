@@ -1,14 +1,11 @@
-##  前言
+##  说明
+#### 前言
 记录笔记也是一种生活。  
 这里汇总了Web前端、移动端、各语言后端、大数据等多种方向的文档。  
 也推荐了大家精挑细选一些书籍与工具。  
-文档仓库地址：  
-https://github.com/overcomputer
-文档分类索引：
-记录笔记也是一种生活。
-笔记说明：   
-https://github.com/ruyuejun/note
-笔记地址：  
+#### 文档仓库地址  
+https://github.com/overcomputer  
+#### 文档分类索引
 - JavaScript：https://github.com/overcomputer/JavaScript
 - Go：https://github.com/overcomputer/Golang
 - Java：整理中
@@ -17,7 +14,6 @@ https://github.com/ruyuejun/note
 - Linux：整理中
 - 算法：https://github.com/overcomputer/Algorithm
 - 大数据：整理中
-
 ## 一 应用类书籍
 #### 1.1 数据库书籍
 ```
