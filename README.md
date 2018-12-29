@@ -25,24 +25,20 @@ MySQL:
         《高性能MySQL》                 
         《MySQL高效编程》
         《数据库索引设计与优化》
-原理篇：
         《MySQL技术内幕》   
         《数据库原理》
         《深入理解MySQL核心技术》
         《MySQL内核_InnoDB存储引擎》
 
 Redis:
-基础篇：
         《Redis实战》                   
         《Redis开发与运维》  
-原理篇：
+        《Redis 深度历险:核心原理与应用实践》
         《Redis设计与实现》    
 
 MongoDB:
-基础篇：
         《MongoDB权威指南》             
         《MongoDB实战》
-提高篇：
         《MongoDB应用设计模式》
 
 ```
