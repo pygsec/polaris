@@ -213,22 +213,6 @@ ES6篇：
 提高篇：
         《Go并发编程》                  涉及了一部分Golang基础与并发知识  
 ```
-#### 4.5 C++书籍
-```
-基础篇：
-        《C++ Primer》
-        《C++编程思想（Thinking in C++) 》
-        《C++程序设计原理与实践》
-        《C++ Primer Plus》
-        《面向对象程序设计—C++语言描述》
-        《Effective C++ 》
-        《Effective STL》
-提高篇：
-        《深入理解C++11》
-        《C++设计新思维-泛型编程与设计模式之应用(Modern C++ Design ) 》
-        《C++模板元编程(C++ Template Metaprogramming)》
-
-```
 ## 五 宵录怡情
 ```
 《舆论》[美](沃尔特·李普曼)
