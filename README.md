@@ -181,7 +181,13 @@ ES6篇：
         《Go程序设计语言》艾伦                   - 推荐看英文版
 开发篇：
         《Go Web编程》                 
-        《Go并发编程》                  
+        《Go并发编程》
+资料收集：
+        《Go语言标准库》：https://books.studygolang.com/The-Golang-Standard-Library-by-Example/
+        《Go RPC 开发指南》：https://books.studygolang.com/go-rpc-programming-guide/
+        《Go语言高级编程》：https://books.studygolang.com/advanced-go-programming-book/
+        《深入解析Go》：https://books.studygolang.com/go-internals/
+                                
 ```
 ## 六 工程与架构
 #### 6.1 软件架构
