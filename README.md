@@ -163,7 +163,9 @@ MongoDB:
         《JavaScript设计模式》 
 ES6篇：
         《深入理解ECMAScript6》         
-        《ECMAScript6入门》      
+        《ECMAScript6入门》  
+资源：
+        《前端面试之道》：https://yuchengkai.cn/docs/frontend/
 ```
 #### 5.3 Node.js
 ```
@@ -173,10 +175,14 @@ ES6篇：
         《Node.js实战》第2版TJ合著
         《Koa与Node.js开发实战》
         《使用Egg.js+Vue.js+Docker》    
-        《Node.js调试指南》
+        《Node.js调试指南》                     - 电子版：https://github.com/nswbmw/node-in-debugging
 提高篇：
         《Node.js:来一打C++扩展》       
-        《深入浅出Node.js》           
+        《深入浅出Node.js》   
+资料：
+        《NodeJS包教不会》：https://github.com/alsotang/node-lessons   
+        node123：https://github.com/youyudehexie/node123     
+        《Koa2进阶学习笔记》：https://chenshenhai.github.io/koa2-note/
 ```
 #### 5.4 Golang
 ```
@@ -190,9 +196,10 @@ ES6篇：
 资料收集：
         《Go语言标准库》：https://books.studygolang.com/The-Golang-Standard-Library-by-Example/
         《Go RPC 开发指南》：https://books.studygolang.com/go-rpc-programming-guide/
-        《Go语言高级编程》：https://books.studygolang.com/advanced-go-programming-book/
+        《Go语言高级编程》：https://github.com/chai2010/advanced-go-programming-book
         《深入解析Go》：https://books.studygolang.com/go-internals/
-        《build-web-application-with-golang》：https://github.com/astaxie/build-web-application-with-golang/tree/master/zh
+        《Go Web编程》(astaxie)：https://github.com/astaxie/build-web-application-with-golang/tree/master/zh
+        《go-mega》：https://github.com/bonfy/go-mega
 ```
 ## 六 工程与架构
 #### 6.1 软件架构
