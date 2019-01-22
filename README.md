@@ -14,6 +14,7 @@ https://github.com/overcomputer
 - 大数据：整理中
 ## 一 算法
 ```
+书籍：
         《大话数据结构》                - 数据结构基础入门 
         《啊哈算法》                    - 算法基础入门
         《算法设计与分析基础》第3版       - 详细算法思路总结
@@ -23,7 +24,12 @@ https://github.com/overcomputer
         《算法》                       - Java版算法大部头
 
         《算法导论》                    - 算法经典代表作
-        《程序设计与算法艺术》            - 恢弘巨制                                 
+        《程序设计与算法艺术》            - 恢弘巨制    
+
+视频教程
+        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      
+电子书
+        《数据结构C++语言版》(清华大学)：http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                       
 ```
 ## 二 网络
 ```
