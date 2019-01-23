@@ -148,9 +148,12 @@ MongoDB:
 #### 5.2 JavaScript
 ```
 网页篇：
+        《CSS揭秘》
         《CSS世界》
         《HTML5与CSS3权威指南》第3版上册
         《图解CSS3：核心技术与案例实战》
+        《HTML5 Canvas核心技术图形动画与游戏开发》
+        《锋利的jQuery》
 基础篇：
         《JavaScript权威指南》          
         《JavaScript高级程序设计》
@@ -160,10 +163,9 @@ MongoDB:
         《JavaScript核心技术开发解密》   
         《高性能JavaScript》
         《JavaScript设计模式与开发实践》 
-        《JavaScript设计模式》 
-ES6篇：
         《深入理解ECMAScript6》         
         《ECMAScript6入门》  
+        《Webkit技术内幕》
 资源：
         《前端面试之道》：https://yuchengkai.cn/docs/frontend/
 ```
