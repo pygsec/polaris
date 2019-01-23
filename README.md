@@ -40,12 +40,14 @@ https://github.com/overcomputer
 ```
         《图解HTTP》
         《HTTP权威指南》
+
         《图解TCP/IP》
         《TCP/IP详解》
+
         《计算机网络：自顶向下》
         《计算机网络》   
 ```
-## 三 Linux与操作系统
+## 三 操作系统
 ```
         《鸟哥的私房菜》                - 适合0基础阅读
         《Linux内核设计与实现》         - 短小精悍入门书   
@@ -131,23 +133,26 @@ MongoDB:
         《阿里巴巴Java开发手册》     
 提高篇：
         《Java程序性能优化》            
-        《Java性能优化权威指南》
+        《Java性能调优权威指南》
         《Java编程思想》
         《Effective Java》             
         《Think in Java》
         《Java并发编程的艺术》          
         《Java并发编程实战》
+        《Spring源码深度解析》
 架构篇：
         《分布式java应用：基础与实践》   
         《企业应用架构模式》
         《大型网站系统与Java中间件实践》 
         《架构探险，从零开始JavaWeb框架》
+        《kubenetes权威指南》
         
 原理篇：  
         《深入分析javaweb技术内幕》     
         《深度剖析Tomcat》
         《深入分析Spring技术内幕》      
         《深入理解Java虚拟机》
+        《Tomcat架构解析》
 
 ```
 #### 5.2 JavaScript
@@ -209,13 +214,15 @@ MongoDB:
         《go-mega》：https://github.com/bonfy/go-mega
 ```
 ## 六 工程与架构
-#### 6.1 软件架构
+#### 6.1 架构
 ```
         《微服务架构实战》
         《大型网站技术架构》
+        《大型分布式网站架构设计与实践》
         《企业应用架构》
+        《分布式服务框架原理与实践》
 ```
-#### 6.2 软件工程
+#### 6.2 工程
 ```
         《重构》
         《编程之美》
