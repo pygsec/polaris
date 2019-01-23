@@ -15,26 +15,26 @@ https://github.com/overcomputer
 ## 一 算法
 ```
 书籍：
+趣味入门：
         《大话数据结构》                - 数据结构基础入门 
         《啊哈算法》                    - 算法基础入门
         《算法图解》
-
+基础入门：
         《算法设计与分析基础》第3版       - 详细算法思路总结
         《数据结构与算法分析》           - 拥有各类语言版，推荐C，C++，Java
-        《数据结构》                    - C++版，清华大学邓俊辉
-
+        《数据结构》（邓俊辉）           - C++版 http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/
+习题：
         《挑战程序设计竞赛》
         《算法艺术与信息学竞赛》
         《剑指offer》                  - 面试中常见的数据结构与算法
-
+进阶：
         《算法》                       - Java版算法大部头
         《算法导论》                    - 算法经典代表作
+        《计算机算法的设计与分析》        - 机械工业出版社
         《计算机程序设计艺术》            - 恢弘巨制    
 
 视频教程：
-        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      
-电子书：
-        《数据结构C++语言版》(清华大学)：http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                       
+        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001                            
 ```
 ## 二 网络
 ```
