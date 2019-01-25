@@ -163,6 +163,7 @@ MongoDB:
         《HTML5与CSS3权威指南》第3版上册
         《图解CSS3：核心技术与案例实战》
         《HTML5 Canvas核心技术图形动画与游戏开发》
+        《JavaScriptDOM编程》
         《锋利的jQuery》
 基础篇：
         《JavaScript权威指南》          
