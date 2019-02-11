@@ -184,8 +184,6 @@ MongoDB:
 ```
 基础篇：
         《新时期的Node.js入门》
-开发篇：
-        《Node.js实战》第2版TJ合著
         《Koa与Node.js开发实战》
         《使用Egg.js+Vue.js+Docker》    
         《Node.js调试指南》                     - 电子版：https://github.com/nswbmw/node-in-debugging
