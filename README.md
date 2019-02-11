@@ -182,7 +182,8 @@ MongoDB:
 书籍：
         《新时期的Node.js入门》
         《Koa与Node.js开发实战》
-        《使用Egg.js+Vue.js+Docker》    
+        《使用Egg.js+Vue.js+Docker》
+        《Node.js实战》(第2季)-吴中桦等著    
         《Node.js调试指南》- 电子版：https://github.com/nswbmw/node-in-debugging
         《Node.js:来一打C++扩展》       
         《深入浅出Node.js》   
