@@ -165,8 +165,6 @@ MongoDB:
 基础篇：
         《JavaScript权威指南》          
         《JavaScript高级程序设计》
-        《JavaScriptDOM编程》
-        《锋利的jQuery》
 提高篇：
         《JavaScript语言精粹》          
         《你不知道JavaScript》
