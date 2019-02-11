@@ -157,16 +157,14 @@ MongoDB:
 ```
 #### 5.2 JavaScript
 ```
-网页篇：
+网页：
         《CSS揭秘》
         《CSS世界》
         《HTML5与CSS3权威指南》第3版上册
         《图解CSS3：核心技术与案例实战》
-基础篇：
+JavaScript：
         《JavaScript权威指南》          
-        《JavaScript高级程序设计》
-提高篇：
-        《JavaScript语言精粹》          
+        《JavaScript高级程序设计》         
         《你不知道JavaScript》
         《JavaScript核心技术开发解密》   
         《高性能JavaScript》
@@ -174,12 +172,7 @@ MongoDB:
         《深入理解ECMAScript6》         
         《ECMAScript6入门》  
         《Webkit技术内幕》
-资源：
-        《前端面试之道》：https://yuchengkai.cn/docs/frontend/
-```
-#### 5.3 Node.js
-```
-书籍：
+Node.js：
         《新时期的Node.js入门》
         《Koa与Node.js开发实战》
         《使用Egg.js+Vue.js+Docker》
@@ -187,12 +180,14 @@ MongoDB:
         《Node.js调试指南》- 电子版：https://github.com/nswbmw/node-in-debugging
         《Node.js:来一打C++扩展》       
         《深入浅出Node.js》   
-资料：
+
+资源：
+        《前端面试之道》：https://yuchengkai.cn/docs/frontend/
         《NodeJS包教不会》：https://github.com/alsotang/node-lessons   
          node123：https://github.com/youyudehexie/node123     
         《Koa2进阶学习笔记》：https://chenshenhai.github.io/koa2-note/
 ```
-#### 5.4 Golang
+#### 5.3 Golang
 ```
 基础篇：
         《Go语言从入门到进阶实战》               - 语法基础
