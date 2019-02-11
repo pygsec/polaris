@@ -162,6 +162,7 @@ MongoDB:
         《CSS世界》
         《HTML5与CSS3权威指南》第3版上册
         《图解CSS3：核心技术与案例实战》
+
 JavaScript：
         《JavaScript权威指南》          
         《JavaScript高级程序设计》         
@@ -173,11 +174,11 @@ JavaScript：
         《深入理解ECMAScript6》         
         《ECMAScript6入门》  
         《Webkit技术内幕》
+        
 Node.js：
         《新时期的Node.js入门》
         《Koa与Node.js开发实战》
-        《使用Egg.js+Vue.js+Docker》
-        《Node.js实战》(第2季)-吴中桦等著    
+        《使用Egg.js+Vue.js+Docker》   
         《Node.js调试指南》- 电子版：https://github.com/nswbmw/node-in-debugging
         《Node.js:来一打C++扩展》       
         《深入浅出Node.js》   
