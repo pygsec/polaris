@@ -167,6 +167,7 @@ JavaScript：
         《JavaScript高级程序设计》         
         《你不知道JavaScript》
         《JavaScript核心技术开发解密》   
+        《JavaScript语言精粹》
         《高性能JavaScript》
         《JavaScript设计模式与开发实践》 
         《深入理解ECMAScript6》         
