@@ -162,12 +162,11 @@ MongoDB:
         《CSS世界》
         《HTML5与CSS3权威指南》第3版上册
         《图解CSS3：核心技术与案例实战》
-        《HTML5 Canvas核心技术图形动画与游戏开发》
-        《JavaScriptDOM编程》
-        《锋利的jQuery》
 基础篇：
         《JavaScript权威指南》          
         《JavaScript高级程序设计》
+        《JavaScriptDOM编程》
+        《锋利的jQuery》
 提高篇：
         《JavaScript语言精粹》          
         《你不知道JavaScript》
@@ -182,17 +181,16 @@ MongoDB:
 ```
 #### 5.3 Node.js
 ```
-基础篇：
+书籍：
         《新时期的Node.js入门》
         《Koa与Node.js开发实战》
         《使用Egg.js+Vue.js+Docker》    
-        《Node.js调试指南》                     - 电子版：https://github.com/nswbmw/node-in-debugging
-提高篇：
+        《Node.js调试指南》- 电子版：https://github.com/nswbmw/node-in-debugging
         《Node.js:来一打C++扩展》       
         《深入浅出Node.js》   
 资料：
         《NodeJS包教不会》：https://github.com/alsotang/node-lessons   
-        node123：https://github.com/youyudehexie/node123     
+         node123：https://github.com/youyudehexie/node123     
         《Koa2进阶学习笔记》：https://chenshenhai.github.io/koa2-note/
 ```
 #### 5.4 Golang
