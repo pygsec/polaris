@@ -82,14 +82,17 @@ Nginx:
 ```
 #### 4.2 数据库
 ```
+数据库:
+        《数据库系统概念》
+        《数据库系统实现》
+        《数据库索引设计与优化》
+        《数据库查询优化器的艺术 : 原理解析与SQL性能优化》
+        《海量数据库解决方案》
+
 MySQL:         
         《深入浅出MySQL数据库开发优化与管理维护》
         《高性能MySQL》                 
-        《MySQL高效编程》
-        《数据库索引设计与优化》
-        《MySQL技术内幕》   
-        《数据库原理》
-        《深入理解MySQL核心技术》
+        《MySQL性能调优与架构设计》
         《MySQL内核_InnoDB存储引擎》
 
 Redis:
@@ -103,6 +106,15 @@ MongoDB:
         《MongoDB实战》
         《MongoDB应用设计模式》
 
+PostgreSQL:
+        《PostgreSQL实战》
+        《PostgreSQL 9X之巅》（原书第2版）
+        《PostgreSQL技术内幕：查询优化深度探索》
+        《PostgreSQL 数据库内核分析》
+
+Oracle:
+        《Oracle Database 9i/10g/11g编程艺术 : 深入数据库体系结构》
+        《构建Oracle高可用环境 : 企业级高可用数据库架构、实战与经验总结》
 ```
 
 #### 4.3 大数据
@@ -124,31 +136,37 @@ MongoDB:
 #### 5.1 Java书籍
 ```
 基础篇：
-        《Java核心技术卷》              
+        《Head First Java》
+        《Java语言程序设计》
+        《Java核心技术卷》   
+        《Java 8实战》           
         《Java JDK9 学习笔记》
+        《Java Web高级编程》
+        《Java Web整合开发王者归来》
 开发篇：
-        《Java开发实战经典》            
-        《JavaWeb项目开发实战入门》         
+        《深入分析javaweb技术内幕》 
+        《Java开发实战经典》                  
         《Spring实战》                 
-        《阿里巴巴Java开发手册》     
+        《阿里巴巴Java开发手册》   
+        《大型网站系统与Java中间件开发实践》
+        《Java多线程编程实战指南》  
 提高篇：
+        《实战Java高并发程序设计》
         《Java程序性能优化》            
-        《Java性能调优权威指南》
+        《Java性能权威指南》
         《Java编程思想》
         《Effective Java》             
-        《Think in Java》
-        《Java并发编程的艺术》          
+        《Think in Java》         
         《Java并发编程实战》
         《Spring源码深度解析》
+        《Java解惑》
 架构篇：
         《分布式java应用：基础与实践》   
         《企业应用架构模式》
         《大型网站系统与Java中间件实践》 
-        《架构探险，从零开始JavaWeb框架》
         《kubenetes权威指南》
         
-原理篇：  
-        《深入分析javaweb技术内幕》     
+原理篇：      
         《深度剖析Tomcat》
         《深入分析Spring技术内幕》      
         《深入理解Java虚拟机》
