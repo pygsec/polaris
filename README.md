@@ -164,9 +164,7 @@ Oracle:
         《分布式java应用：基础与实践》   
         《企业应用架构模式》
         《大型网站系统与Java中间件实践》 
-        《kubenetes权威指南》
-        
-原理篇：      
+        《kubenetes权威指南》    
         《深度剖析Tomcat》
         《深入分析Spring技术内幕》      
         《深入理解Java虚拟机》
