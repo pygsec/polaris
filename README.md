@@ -104,7 +104,6 @@ Redis:
 MongoDB:
         《MongoDB权威指南》             
         《MongoDB实战》
-        《MongoDB应用设计模式》
 
 PostgreSQL:
         《PostgreSQL实战》
