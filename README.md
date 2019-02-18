@@ -103,7 +103,6 @@ Redis:
 MongoDB:
         《MongoDB权威指南》             
         《MongoDB实战》
-        《MongoDB应用设计模式》
 
 PostgreSQL:
         《PostgreSQL实战》
@@ -209,7 +208,6 @@ Node.js：
         《Go语言从入门到进阶实战》               - 语法基础
         《Go语言程序设计》(艾伦)                - 推荐购买英文版
         《Go语言学习笔记》                      - 由浅入深，适合初学与深入
-        《GO语言程序设计》(Mark)
         《GoWeb编程》                 
         《Go并发编程》
 资料收集：
