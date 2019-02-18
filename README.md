@@ -20,9 +20,8 @@ https://github.com/overcomputer
         《啊哈算法》                    - 算法基础入门
         《算法图解》
 基础入门：
-        《算法设计与分析基础》第3版       - 详细算法思路总结
+        《算法设计与分析基础》第3版       - 详细算法思路总结，Java版
         《数据结构与算法分析》           - 拥有各类语言版，推荐C，C++，Java
-        《数据结构》（邓俊辉）           - C++版 http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/
 习题：
         《挑战程序设计竞赛》
         《算法艺术与信息学竞赛》
@@ -34,7 +33,7 @@ https://github.com/overcomputer
         《计算机程序设计艺术》            - 恢弘巨制    
 
 视频教程：
-        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001                            
+        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      《数据结构》（邓俊辉）- C++版： http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                    
 ```
 ## 二 网络
 ```
@@ -208,7 +207,7 @@ Node.js：
 #### 5.3 Golang
 ```
         《Go语言从入门到进阶实战》               - 语法基础
-        《Go语言圣经》(艾伦)                    - 推荐购买英文版
+        《Go语言程序设计》(艾伦)                - 推荐购买英文版
         《Go语言学习笔记》                      - 由浅入深，适合初学与深入
         《GO语言程序设计》(Mark)
         《GoWeb编程》                 
