@@ -1,9 +1,10 @@
 ## 前言
-记录笔记也是一种生活，朝着真·全栈的路上迈进，让全栈不再是一个贬义词！  
-这里汇总了Web前端、移动端、各语言后端、大数据等多种方向的文档，也推荐了大家精挑细选一些书籍与工具。  
-仓库汇总地址：  
+因网络上各种文档之杂、之乱、之烂，故愤而著此文档，以平复狂躁的搜索之怒。  
+
+各类编程知识仓库汇总地址：  
 https://github.com/overcomputer  
-分类索引：  
+
+对上述仓库的分类索引：  
 - JavaScript：https://github.com/overcomputer/JavaScript
 - Go：https://github.com/overcomputer/Golang
 - Java：整理中
@@ -12,7 +13,8 @@ https://github.com/overcomputer
 - Linux：整理中
 - 算法：https://github.com/overcomputer/Algorithm
 - 大数据：整理中
-## 一 算法
+## 一 通用书籍推荐
+#### 1.1 算法
 ```
 书籍：
 趣味入门：
@@ -35,7 +37,7 @@ https://github.com/overcomputer
 视频教程：
         数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      《数据结构》（邓俊辉）- C++版： http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                    
 ```
-## 二 网络
+#### 1.2 网络
 ```
         《图解HTTP》
         《HTTP权威指南》
@@ -46,7 +48,7 @@ https://github.com/overcomputer
         《计算机网络：自顶向下》
         《计算机网络》   
 ```
-## 三 操作系统
+#### 1.3 操作系统
 ```
         《鸟哥的私房菜》                - 适合0基础阅读
         《Linux内核设计与实现》         - 短小精悍入门书   
@@ -69,8 +71,33 @@ https://github.com/overcomputer
         《深入理解计算机系统》
         
 ```
-## 四 应用类书籍
-#### 4.1 常用服务器软件
+#### 1.4 架构
+```
+        《微服务架构实战》
+        《大型网站技术架构》
+        《大型分布式网站架构设计与实践》
+        《企业应用架构》
+        《分布式服务框架原理与实践》
+```
+#### 1.5 工程
+```
+        《重构》
+        《编程之美》
+        《Head First设计模式》
+        《敏捷软件开发》
+        《设计模式-可复用软件的设计》
+        《超越传统的软件开发》
+        《解析极限编程》
+        《人月神话》
+        《设计模式-可复用软件的设计》
+        《超越传统的软件开发-极限编程的幻想和真实》
+        《解析极限编程-拥抱变化》
+        《测试驱动开发by Example》
+        《敏捷开发-敏捷软件开发：原则、模式与实践》
+        《图解设计模式》
+```
+## 二 服务端书籍
+#### 2.1 常用服务器软件
 ```
 Nginx:
         《精通Nginx》第2版
@@ -79,7 +106,7 @@ Nginx:
         《Nginx完全开发指南》
         《Nginx Lua开发实战》
 ```
-#### 4.2 数据库
+#### 2.2 数据库
 ```
 数据库:
         《数据库系统概念》
@@ -115,12 +142,12 @@ Oracle:
         《构建Oracle高可用环境 : 企业级高可用数据库架构、实战与经验总结》
 ```
 
-#### 4.3 大数据
+#### 2.3 大数据
 ```
         《Hadoop》技术内幕
 ```
 
-#### 4.4 分布式
+#### 2.4 分布式
 ```
         《分布式应用》
         《大型分布式网站架构设计与实践》
@@ -130,8 +157,8 @@ Oracle:
         《分布式对象存储》
         《大规模分布式存储系统》
 ```
-## 五 开发语言
-#### 5.1 Java书籍
+## 三 开发语言类书籍
+#### 3.1 Java书籍
 ```
 基础篇：
         《Head First Java》
@@ -169,7 +196,7 @@ Oracle:
         《Tomcat架构解析》
 
 ```
-#### 5.2 JavaScript
+#### 3.2 JavaScript
 ```
 网页：
         《CSS揭秘》
@@ -203,7 +230,7 @@ Node.js：
          node123：https://github.com/youyudehexie/node123     
         《Koa2进阶学习笔记》：https://chenshenhai.github.io/koa2-note/
 ```
-#### 5.3 Golang
+#### 3.3 Golang
 ```
         《Go语言从入门到进阶实战》               - 语法基础
         《Go语言程序设计》(艾伦)                - 推荐购买英文版
@@ -217,30 +244,4 @@ Node.js：
         《深入解析Go》：https://books.studygolang.com/go-internals/
         《Go Web编程》(astaxie)：https://github.com/astaxie/build-web-application-with-golang/tree/master/zh
         《Mastering GO》：https://github.com/hantmac/Mastering_Go_ZH_CN
-```
-## 六 工程与架构
-#### 6.1 架构
-```
-        《微服务架构实战》
-        《大型网站技术架构》
-        《大型分布式网站架构设计与实践》
-        《企业应用架构》
-        《分布式服务框架原理与实践》
-```
-#### 6.2 工程
-```
-        《重构》
-        《编程之美》
-        《Head First设计模式》
-        《敏捷软件开发》
-        《设计模式-可复用软件的设计》
-        《超越传统的软件开发》
-        《解析极限编程》
-        《人月神话》
-        《设计模式-可复用软件的设计》
-        《超越传统的软件开发-极限编程的幻想和真实》
-        《解析极限编程-拥抱变化》
-        《测试驱动开发by Example》
-        《敏捷开发-敏捷软件开发：原则、模式与实践》
-        《图解设计模式》
 ```
