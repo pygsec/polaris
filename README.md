@@ -34,7 +34,8 @@ https://github.com/overcomputer
         《计算机程序设计艺术》            - 恢弘巨制    
 
 视频教程：
-        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      《数据结构》（邓俊辉）- C++版： http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                    
+        数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      
+        《数据结构》（邓俊辉）- C++版： http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                    
 ```
 #### 2.1.2 网络
 ```
