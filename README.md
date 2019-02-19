@@ -1,6 +1,4 @@
-## 前言
-因网络上各种文档之杂、之乱、之烂，故愤而著此文档，以平复狂躁的搜索之怒。  
-
+## 一 知识索引
 各类编程知识仓库汇总地址：  
 https://github.com/overcomputer  
 
@@ -13,8 +11,9 @@ https://github.com/overcomputer
 - Linux：整理中
 - 算法：https://github.com/overcomputer/Algorithm
 - 大数据：整理中
-## 一 通用书籍推荐
-#### 1.1 算法
+## 二 书籍推荐
+### 2.1 通用书籍
+#### 2.1.1 算法
 ```
 书籍：
 趣味入门：
@@ -37,7 +36,7 @@ https://github.com/overcomputer
 视频教程：
         数据结构_浙江大学：http://www.icourse163.org/course/ZJU-93001      《数据结构》（邓俊辉）- C++版： http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                    
 ```
-#### 1.2 网络
+#### 2.1.2 网络
 ```
         《图解HTTP》
         《HTTP权威指南》
@@ -48,7 +47,7 @@ https://github.com/overcomputer
         《计算机网络：自顶向下》
         《计算机网络》   
 ```
-#### 1.3 操作系统
+#### 2.1.3 操作系统
 ```
         《鸟哥的私房菜》                - 适合0基础阅读
         《Linux内核设计与实现》         - 短小精悍入门书   
@@ -71,7 +70,7 @@ https://github.com/overcomputer
         《深入理解计算机系统》
         
 ```
-#### 1.4 架构
+#### 2.1.4 架构
 ```
         《微服务架构实战》
         《大型网站技术架构》
@@ -79,7 +78,7 @@ https://github.com/overcomputer
         《企业应用架构》
         《分布式服务框架原理与实践》
 ```
-#### 1.5 工程
+#### 2.1.5 工程
 ```
         《重构》
         《编程之美》
@@ -96,8 +95,8 @@ https://github.com/overcomputer
         《敏捷开发-敏捷软件开发：原则、模式与实践》
         《图解设计模式》
 ```
-## 二 服务端书籍
-#### 2.1 常用服务器软件
+### 2.2 服务端书籍
+#### 2.2.1 常用服务器软件
 ```
 Nginx:
         《精通Nginx》第2版
@@ -106,7 +105,7 @@ Nginx:
         《Nginx完全开发指南》
         《Nginx Lua开发实战》
 ```
-#### 2.2 数据库
+#### 2.2.2 数据库
 ```
 数据库:
         《数据库系统概念》
@@ -142,12 +141,12 @@ Oracle:
         《构建Oracle高可用环境 : 企业级高可用数据库架构、实战与经验总结》
 ```
 
-#### 2.3 大数据
+#### 2.2.3 大数据
 ```
         《Hadoop》技术内幕
 ```
 
-#### 2.4 分布式
+#### 2.2.4 分布式
 ```
         《分布式应用》
         《大型分布式网站架构设计与实践》
@@ -157,8 +156,8 @@ Oracle:
         《分布式对象存储》
         《大规模分布式存储系统》
 ```
-## 三 开发语言类书籍
-#### 3.1 Java书籍
+### 2.3 开发语言类书籍
+#### 2.3.1 Java书籍
 ```
 基础篇：
         《Head First Java》
@@ -196,7 +195,7 @@ Oracle:
         《Tomcat架构解析》
 
 ```
-#### 3.2 JavaScript
+#### 2.3.2 JavaScript
 ```
 网页：
         《CSS揭秘》
@@ -230,7 +229,7 @@ Node.js：
          node123：https://github.com/youyudehexie/node123     
         《Koa2进阶学习笔记》：https://chenshenhai.github.io/koa2-note/
 ```
-#### 3.3 Golang
+#### 2.3.3 Golang
 ```
         《Go语言从入门到进阶实战》               - 语法基础
         《Go语言程序设计》(艾伦)                - 推荐购买英文版
