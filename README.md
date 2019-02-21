@@ -74,11 +74,7 @@ https://github.com/overcomputer
 #### 4.1 常用服务器软件
 ```
 Nginx:
-        《精通Nginx》第2版
         《深入理解Nginx：模块开发与架构解析》第2版      
-        《深入剖析Nginx》                               
-        《Nginx完全开发指南》
-        《Nginx Lua开发实战》
 ```
 #### 4.2 数据库
 ```
