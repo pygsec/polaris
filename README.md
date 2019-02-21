@@ -1,6 +1,14 @@
+## 前言
+前因编程书籍之良莠不齐，又见博文分享之千篇一律，故愤而编此册。  
+
+余深感道阻且长，披荆斩棘于月下，历半载之功，初见端倪，虽形神俱疲，但乐在其中。   
+ 
+余亦深虑己之不足，而学而无涯，尚有大量待考文章，余必晨兢夕厉，持之以恒。  
+
+知识索引与推荐书籍俱已依照难易顺序排序、学习顺序排序，与君共勉。
+
 ## 一 知识索引
-各类编程知识仓库汇总地址：  
-https://github.com/overcomputer  
+开发知识汇总组织:       https://github.com/overcomputer  
 
 对上述仓库的分类索引：  
 - JavaScript：https://github.com/overcomputer/JavaScript
@@ -11,40 +19,45 @@ https://github.com/overcomputer
 - Linux：整理中
 - 算法：https://github.com/overcomputer/Algorithm
 - 大数据：整理中
-## 二 书籍推荐
-### 2.1 通用书籍
-#### 2.1.1 算法
+## 二 通用书籍推荐
+####  2.1 算法
 ```
-书籍：
-基础入门：
+零基础入门
         《大话数据结构》                - 适合数据结构零基础入门 
         《算法图解》                    - 适合算法零基础入门
         《学习JavaScript数据结构与算法》 - 适合JS程序员零基础入门
+
+初级学习
+        《算法设计与分析基础》第3版       - 详细算法思路总结，Java版
+        《数据结构与算法分析》           - 拥有各类语言版，推荐C，C++，Java
+
+补充学习                                - 可看可不看，作为基础知识的补充
         《算法概论》
         《算法心得：高效算法的奥秘》
         《算法新解》
-        《算法设计与分析基础》第3版       - 详细算法思路总结，Java版
-        《数据结构与算法分析》           - 拥有各类语言版，推荐C，C++，Java
-习题：
+
+进阶
+        《算法》                       - Java版算法大部头
+        《算法导论》                    - 算法经典代表作
+        《垃圾回收的算法与实现》
+
+巨著
+        《计算机算法的设计与分析》        - 机械工业出版社
+        《计算机程序设计艺术》            - 恢弘巨制    
+
+习题
         《算法竞赛入门经典》
         《挑战程序设计竞赛》
         《算法艺术与信息学竞赛》
         《算法笔记》
         《程序员代码面试指南》
         《剑指offer》                  - 面试中常见的数据结构与算法
-进阶：
-        《算法》                       - Java版算法大部头
-        《算法导论》                    - 算法经典代表作
-        《垃圾回收的算法与实现》
-巨著：
-        《计算机算法的设计与分析》        - 机械工业出版社
-        《计算机程序设计艺术》            - 恢弘巨制    
 
-视频教程：
+视频教程
         数据结构_浙江大学:http://www.icourse163.org/course/ZJU-93001      
         《数据结构》(C++版-邓俊辉):http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184X+sp/pdfbook/0/                    
 ```
-#### 2.1.2 网络
+#### 2.2 网络
 ```
         《图解HTTP》
         《HTTP权威指南》
@@ -55,10 +68,13 @@ https://github.com/overcomputer
         《计算机网络：自顶向下》
         《计算机网络》   
 ```
-#### 2.1.3 操作系统
+#### 2.3 操作系统
 ```
         《鸟哥的私房菜》                - 适合0基础阅读
-        《Linux内核设计与实现》         - 短小精悍入门书   
+        《Linux内核设计与实现》         - 短小精悍入门书
+
+        ------ 到达这里其实Linux的学习已经差不多了 ------
+
         《Linux设备驱动程序》第3版
 
         《UNIX环境高级编程》                            
@@ -78,16 +94,7 @@ https://github.com/overcomputer
         《深入理解计算机系统》
         
 ```
-#### 2.1.4 架构
-```
-        《微服务架构实战》
-        《大型网站技术架构》
-        《大型分布式网站架构设计与实践》
-        《企业应用架构》
-        《分布式服务框架原理与实践》
-        《大数据日知录》
-```
-#### 2.1.5 工程
+#### 2.4 工程
 ```
         《重构》
         《编程之美》
@@ -104,26 +111,32 @@ https://github.com/overcomputer
         《敏捷开发-敏捷软件开发：原则、模式与实践》
         《图解设计模式》
 ```
-### 2.2 服务端书籍
-#### 2.2.1 常用服务器软件
+## 三  服务端书籍
+#### 3.1 Web容器
 ```
-Nginx:
+Nginx
         《精通Nginx》第2版
         《深入理解Nginx：模块开发与架构解析》第2版      
         《深入剖析Nginx》                               
         《Nginx完全开发指南》
         《Nginx Lua开发实战》
+
+Tomcat
+
+
+Apache
+
 ```
-#### 2.2.2 数据库
+#### 3.2 数据库
 ```
-数据库:
+通用
         《数据库系统概念》
         《数据库系统实现》
         《数据库索引设计与优化》
         《数据库查询优化器的艺术 : 原理解析与SQL性能优化》
         《海量数据库解决方案》
 
-MySQL:         
+MySQL        
         《深入浅出MySQL数据库开发优化与管理维护》
         《高性能MySQL》                 
         《MySQL性能调优与架构设计》
@@ -135,28 +148,34 @@ Redis:
         《Redis深度历险:核心原理与应用实践》
         《Redis设计与实现》    
 
-MongoDB:
+MongoDB
         《MongoDB权威指南》             
         《MongoDB实战》
 
-PostgreSQL:
+PostgreSQL
         《PostgreSQL实战》
         《PostgreSQL 9X之巅》（原书第2版）
         《PostgreSQL技术内幕：查询优化深度探索》
         《PostgreSQL 数据库内核分析》
 
-Oracle:
+Oracle
         《Oracle Database 9i/10g/11g编程艺术 : 深入数据库体系结构》
         《构建Oracle高可用环境 : 企业级高可用数据库架构、实战与经验总结》
 ```
 
-#### 2.2.3 大数据
+#### 3.3 大数据
 ```
         《Hadoop》技术内幕
+        《大数据日知录》
 ```
 
-#### 2.2.4 分布式
+#### 3.4 架构
 ```
+        《微服务架构实战》
+        《大型网站技术架构》
+        《大型分布式网站架构设计与实践》
+        《企业应用架构》
+        《分布式服务框架原理与实践》
         《分布式应用》
         《大型分布式网站架构设计与实践》
         《分布式服务框架原理与实践》
@@ -165,10 +184,10 @@ Oracle:
         《分布式对象存储》
         《大规模分布式存储系统》
 ```
-### 2.3 开发语言类书籍
-#### 2.3.1 Java书籍
+## 四 语言类书籍
+#### 4.1 Java书籍
 ```
-基础篇：
+基础篇
         《Head First Java》
         《Java语言程序设计》
         《Java核心技术卷》   
@@ -176,14 +195,14 @@ Oracle:
         《Java JDK9 学习笔记》
         《Java Web高级编程》
         《Java Web整合开发王者归来》
-开发篇：
+开发篇
         《深入分析javaweb技术内幕》 
         《Java开发实战经典》                  
         《Spring实战》                 
         《阿里巴巴Java开发手册》   
         《大型网站系统与Java中间件开发实践》
         《Java多线程编程实战指南》  
-提高篇：
+提高篇
         《实战Java高并发程序设计》
         《Java程序性能优化》            
         《Java性能权威指南》
@@ -193,7 +212,7 @@ Oracle:
         《Java并发编程实战》
         《Spring源码深度解析》
         《Java解惑》
-架构篇：
+架构篇
         《分布式java应用：基础与实践》   
         《企业应用架构模式》
         《大型网站系统与Java中间件实践》 
@@ -204,15 +223,15 @@ Oracle:
         《Tomcat架构解析》
 
 ```
-#### 2.3.2 JavaScript
+#### 4.2 JavaScript
 ```
-网页：
+网页
         《CSS揭秘》
         《CSS世界》
         《HTML5与CSS3权威指南》第3版上册
         《图解CSS3：核心技术与案例实战》
 
-JavaScript：
+JavaScript
         《JavaScript权威指南》          
         《JavaScript高级程序设计》         
         《你不知道JavaScript》
@@ -224,7 +243,7 @@ JavaScript：
         《ECMAScript6入门》  
         《Webkit技术内幕》
         
-Node.js：
+Node.js
         《新时期的Node.js入门》
         《Koa与Node.js开发实战》
         《使用Egg.js+Vue.js+Docker》   
@@ -232,20 +251,21 @@ Node.js：
         《Node.js:来一打C++扩展》       
         《深入浅出Node.js》   
 
-资源：
+资源
         《前端面试之道》：https://yuchengkai.cn/docs/frontend/
         《NodeJS包教不会》：https://github.com/alsotang/node-lessons   
          node123：https://github.com/youyudehexie/node123     
         《Koa2进阶学习笔记》：https://chenshenhai.github.io/koa2-note/
 ```
-#### 2.3.3 Golang
+#### 4.3 Golang
 ```
+书籍
         《Go语言从入门到进阶实战》               - 语法基础
         《Go语言程序设计》(艾伦)                - 推荐购买英文版
         《Go语言学习笔记》                      - 由浅入深，适合初学与深入
         《GoWeb编程》                 
         《Go并发编程》
-资料收集：
+资料
         《Go语言标准库》：https://books.studygolang.com/The-Golang-Standard-Library-by-Example/
         《Go RPC 开发指南》：https://books.studygolang.com/go-rpc-programming-guide/
         《Go语言高级编程》：https://github.com/chai2010/advanced-go-programming-book
