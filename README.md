@@ -5,10 +5,10 @@
  
 余亦深虑己之不足，而学无涯，尚有大量文章等待校正，余必晨兢夕厉，持之以恒。  
 
-知识索引与推荐书籍俱已依照难易顺序排序、学习顺序排序，与君共勉。
+知识索引与推荐书籍俱已依照难易顺序、学习顺序排序，与君共勉。
 
 ## 一 知识索引
-开发知识汇总组织:       https://github.com/overcomputer  
+开发知识汇总组织:https://github.com/overcomputer  
 
 对上述仓库的分类索引：  
 - JavaScript：https://github.com/overcomputer/JavaScript
@@ -142,7 +142,7 @@ MySQL
         《MySQL性能调优与架构设计》
         《MySQL内核_InnoDB存储引擎》
 
-Redis:
+Redis
         《Redis实战》                   
         《Redis开发与运维》  
         《Redis深度历险:核心原理与应用实践》
