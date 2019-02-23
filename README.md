@@ -113,9 +113,14 @@ TODO：
 ## 三  服务端书籍
 #### 3.1 Web容器
 ```
-Nginx:
+Nginx
         《Nginx高性能Web服务器详解》
-        《深入理解Nginx：模块开发与架构解析》第2版      
+        《深入理解Nginx：模块开发与架构解析》第2版  
+
+Tomcat  
+        《Tomcat架构解析》
+        《深入剖析Tomcat》
+        
 ```
 #### 3.2 数据库
 ```
@@ -202,16 +207,13 @@ Oracle
         《Java并发编程实战》
         《Spring源码深度解析》
         《Java解惑》
-架构篇
-        《分布式java应用：基础与实践》   
+        
+深入篇
+        《分布式java应用：基础与实践》
+        《深入理解Java虚拟机》   
         《企业应用架构模式》
         《大型网站系统与Java中间件实践》 
-        《kubenetes权威指南》    
-        《深度剖析Tomcat》
         《深入分析Spring技术内幕》      
-        《深入理解Java虚拟机》
-        《Tomcat架构解析》
-
 ```
 #### 4.2 JavaScript
 ```
