@@ -144,8 +144,10 @@ Redis
         《Redis设计与实现》    
 
 MongoDB
-        《MongoDB权威指南》             
-        《MongoDB实战》
+        《MongoDB权威指南》                     - 入门书籍，极其适合当作工具书，但版本较老
+        《MongoDB游记》                         - 入门书籍，详细介绍了Mongo的基本使用，版本较新     
+        《MongoDB实战》                         - 比权威指南稍微深入，但中文翻译很差
+        《MongoDB运维实战》                     - 详细深入介绍了复制/分片架构
 
 PostgreSQL
         《PostgreSQL实战》
