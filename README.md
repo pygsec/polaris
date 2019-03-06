@@ -8,21 +8,22 @@
 
 ## 书籍索引
 
-推荐书籍： https://github.com/ruyuejun/polaris/blob/master/推荐书籍.md
+推荐书籍：  
 
-经过亲自阅读对比，对市面上的大量开发书籍进行了梳理，书籍的排序也正是由浅入深的顺序方便学习。  
+https://github.com/ruyuejun/polaris/blob/master/推荐书籍.md
+
+相关说明：
+
+大部分书籍经过笔者亲自对比，书籍的推荐排序按照了由浅入深的，方便学习。  
 
 部分书籍非常经典，比如《Go语言圣经》，但是中文翻译质量十分不堪，在这里做出推荐购买英文版的提示。  
 
-部分书籍十分优秀甚至是业内公评的好书，比如《Node in Action》，笔者也相当赞同，但是如果按照笔者推荐的顺序观看，大量的《Node in Action》内容被其他书籍摘取，这里自然也就没有将其上榜了，后期会对这样的书籍重新上榜，并作出对应说明。
-
+部分书籍十分优秀甚至是业内公评的好书，比如《Node in Action》，笔者也相当赞同，但是如果按照笔者推荐的顺序观看，大量的《Node in Action》内容被其他书籍摘取，这里自然也就没有将其上榜了，后期会对这样的书籍重新上榜，并作出对应说明。  
 
 截图如下：
 ![](/images/01.png)
 
 笔者无论学习的广度和学习的深度都有待提高，缺失了Python，C等常用语言的书籍推荐，已经推荐的JS，Java等书籍也难免有所疏漏，若有疏漏，尽可指正，也欢迎各个方向的同志们提出意见。
-
-
 
 ## 笔记索引
 
@@ -45,13 +46,24 @@
 截图如下：
 ![](images/02.png)
 
+## 工具索引
+
+地址：  
+
+https://github.com/ruyuejun/north-star/blob/master/常用工具.md  
+
+说明：  
+
+梳理中
+
 ## 网站索引
-地址：[推荐网站,点我进入](https://github.com/ruyuejun/north-star/blob/master/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99.md)  
+
+地址：  
+
+https://github.com/ruyuejun/polaris/blob/master/常用网站.md
+
 说明：梳理中
 
-## 工具索引
-地址：[推荐工具,点我进入](https://github.com/ruyuejun/north-star/blob/master/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.md)  
-说明：梳理中
 
 ## TODO 
 - 常用网站索引  
