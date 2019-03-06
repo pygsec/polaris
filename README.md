@@ -8,7 +8,7 @@
 
 ## 书籍索引
 
-地址：[推荐书籍,点我进入](https://github.com/ruyuejun/north-star/blob/master/%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%B1%8D.md)
+推荐书籍： https://github.com/ruyuejun/polaris/blob/master/推荐书籍.md
 
 经过亲自阅读对比，对市面上的大量开发书籍进行了梳理，书籍的排序也正是由浅入深的顺序方便学习。  
 
