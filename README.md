@@ -61,5 +61,5 @@ https://github.com/ruyuejun/polaris/blob/master/常用网站.md
 ## TODO 
 - 常用网站索引  
 - 书籍合理书评
-- Pthon、C++语言书籍推荐
+- Python、C++语言书籍推荐
 
