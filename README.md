@@ -24,17 +24,16 @@ https://github.com/ruyuejun/polaris/blob/master/推荐书籍.md
 
 这是笔者书写或者整理自他人的知识笔记，尽量做到详尽，深入，以及循序渐进。有句话叫做好记性不如烂笔头，推荐大家学习时候也常做笔记，可以自己设立目录，或者fork下列仓库。
 
-开发知识汇总组织:https://github.com/overcomputer  
+开发知识汇总组织:https://github.com/overnote  
 
 对上述仓库的分类索引：  
-- JavaScript：https://github.com/overcomputer/JavaScript
-- Go：https://github.com/overcomputer/Golang
+- JavaScript：https://github.com/overnote/JavaScript
+- Go：https://github.com/overnote/Golang
 - Java：整理中
 - Python：整理中
-- 数据库：整理中
-- Linux：整理中
-- 算法：https://github.com/overcomputer/Algorithm
-- 大数据：整理中
+- Server：https://github.com/overnote/Server  整理中，包含常用服务端技术：Nginx、mysql、redis、mongodb、linux系统等
+- 算法：https://github.com/overnote/Algorithm  整理中，目前进度JS版本60%，后续支持Go版本，Java版本，Python版本
+- 大数据：TODO
 
 截图如下：
 ![](images/02.png)
@@ -43,7 +42,7 @@ https://github.com/ruyuejun/polaris/blob/master/推荐书籍.md
 
 地址：  
 
-https://github.com/ruyuejun/north-star/blob/master/常用工具.md  
+https://github.com/ruyuejun/polaris/blob/master/常用工具.md  
 
 说明：  
 
