@@ -1,20 +1,43 @@
 ## 前言
 
-前因编程书籍之良莠不齐，又见博文分享之千篇一律，故愤而编此册。  
+前因编程书籍之良莠不齐，又见博文分享之杂乱无章，故愤而编此册。  
 
-余深感道阻且长，披荆斩棘于月下，历半载之功，初见端倪，虽形神俱疲，但乐在其中。   
- 
+余深感道阻且长，故披荆斩棘于月下，历半载之功，初见端倪，虽形神俱疲，但乐在其中。   
+
+今整理如图所示：  
+![]()
+
 余亦深虑己之不足，而学无涯，尚有大量文章等待校正，余必晨兢夕厉，持之以恒。  
-
 
 ## 书籍索引
 
-- [数据结构与算法]()
-- []()
+#### 通用书籍
 
-推荐书籍：https://github.com/ruyuejun/polaris/blob/master/推荐书籍.md  
+- [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
+- [计算机三巨头](https://github.com/ruyuejun/polaris/blob/master/bigthree.md)：包括操作系统(这里指Linux)，计算机网络，编译原理
+- [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
+- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/server.md)：包括服务端常用工具：mysql，redis，nginx，tomcat，haddoop等
 
-相关说明：大部分书籍经过笔者和朋友亲自对比，书籍的推荐排序按照了由浅入深的，方便学习。  
+#### 编程语言书籍
+
+- [Java](https://github.com/ruyuejun/polaris/blob/master/java.md)：
+- [JavaScript与Node](https://github.com/ruyuejun/polaris/blob/master/javascipt.md)：
+- [Go](https://github.com/ruyuejun/polaris/blob/master/golang.md)：
+
+#### 考研书籍
+
+- [考研书籍]()：
+
+
+## 常用工具
+
+- [常用工具]((https://github.com/ruyuejun/polaris/blob/master/tools.md))：
+
+## 常用网站
+
+- [常用网站]((https://github.com/ruyuejun/polaris/blob/master/sites.md))：
+
+ 
 
 截图如下：
 ![](/images/01.png)
