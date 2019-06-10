@@ -22,7 +22,7 @@
 #### 编程语言书籍
 
 - [Java](https://github.com/ruyuejun/polaris/blob/master/language/java.md)：包括Java基础，JavaWeb，Java框架等
-- [JavaScript与Node](https://github.com/ruyuejun/polaris/blob/master/language/javascript.md)：包括网页开发，JS语言，Node三类书籍
+- [JavaScript](https://github.com/ruyuejun/polaris/blob/master/language/javascript.md)：包括网页开发，JS语言，Node三类书籍
 - [Go](https://github.com/ruyuejun/polaris/blob/master/language/golang.md)：市面上经典Go书整合
 - [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
 - [C与C++]()：整理中
