@@ -5,7 +5,7 @@
 余深感道阻且长，故披荆斩棘于月下，历半载之功，初见端倪，虽形神俱疲，但乐在其中。   
 
 今整理如图所示：  
-![]()
+![](../images/book.png)
 
 余亦深虑己之不足，而学无涯，尚有大量文章等待校正，余必晨兢夕厉，持之以恒。  
 
@@ -13,34 +13,24 @@
 
 #### 通用书籍
 
-- [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
-- [计算机三巨头](https://github.com/ruyuejun/polaris/blob/master/bigthree.md)：包括操作系统(这里指Linux)，计算机网络，编译原理
-- [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
-- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/server.md)：包括服务端常用工具：mysql，redis，nginx，tomcat，haddoop等
+- [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
+- [计算机三巨头](https://github.com/ruyuejun/polaris/blob/master/currency/bigthree.md)：包括操作系统(这里指Linux)，计算机网络，编译原理
+- [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
+- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，tomcat，haddoop等
+
 
 #### 编程语言书籍
 
-- [Java](https://github.com/ruyuejun/polaris/blob/master/java.md)：
-- [JavaScript与Node](https://github.com/ruyuejun/polaris/blob/master/javascipt.md)：
-- [Go](https://github.com/ruyuejun/polaris/blob/master/golang.md)：
+- [Java](https://github.com/ruyuejun/polaris/blob/master/language/java.md)：包括Java基础，JavaWeb，Java框架等
+- [JavaScript与Node](https://github.com/ruyuejun/polaris/blob/master/language/javascript.md)：包括网页开发，JS语言，Node三类书籍
+- [Go](https://github.com/ruyuejun/polaris/blob/master/language/golang.md)：市面上经典Go书整合
+- [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
+- [C与C++]()：整理中
+- [Rust](https://github.com/ruyuejun/polaris/blob/master/language/rust.md)：市面上经典Rust书整合
 
 #### 考研书籍
 
-- [考研书籍]()：
-
-
-## 常用工具
-
-- [常用工具]((https://github.com/ruyuejun/polaris/blob/master/tools.md))：
-
-## 常用网站
-
-- [常用网站]((https://github.com/ruyuejun/polaris/blob/master/sites.md))：
-
- 
-
-截图如下：
-![](/images/01.png)
+- [考研书籍](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括高等数学，线性代数，概率论，英语一，政治，数据结构，计算机组成，操作系统，计算机网络
 
 ## 笔记索引
 
@@ -57,23 +47,13 @@
 - [算法](https://github.com/overnote/Algorithm)：数据结构与算法笔记，主讲Go版本，另附JS，Java版本，未来可能增加C版
 
 截图如下：
-![](images/02.png)
+![](images/note.png)
 
 ## 工具索引
 
-地址：  https://github.com/ruyuejun/polaris/blob/master/常用工具.md  
-
-说明：  梳理中
+- [常用工具](https://github.com/ruyuejun/polaris/blob/master/toolsite/tools.md)：
 
 ## 网站索引
 
-地址：  https://github.com/ruyuejun/polaris/blob/master/常用网站.md
-
-说明：梳理中
-
-
-## TODO 
-- 常用网站索引  
-- 书籍合理书评
-- Python、C++语言书籍推荐
+- [常用工具](https://github.com/ruyuejun/polaris/blob/master/toolsite/sites.md)：
 
