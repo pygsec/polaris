@@ -1,93 +1,93 @@
 ## 一 数据库
 
-```
-通用
-        《数据库系统概念》
-        《数据库系统实现》
-        《数据库索引设计与优化》
-        《数据库查询优化器的艺术》
-        《海量数据库解决方案》
+通用类：
+- [《数据库系统概念》](https://book.douban.com/subject/10548379/)
+- [《数据库系统实现》](https://book.douban.com/subject/4838430/)
+- [《数据库索引设计与优化》](https://book.douban.com/subject/26419771/)
+- [《数据库查询优化器的艺术》](https://book.douban.com/subject/25815707/)
+- [《海量数据库解决方案》](https://book.douban.com/subject/5346169/)
 
-MySQL    
-        《涂抹MySQL》                                        - 基础学习 
-        《高性能MySQL》                                      - 基础学习 
-        《MySQL性能调优与架构设计》                            - 架构学习                          
-        《MySQL技术内幕_InnoDB存储引擎》                       - 内核学习 
-        《MySQL内核：InnoDB存储引擎》                          - 内核学习 
+MySQL：
+- [《涂抹MySQL》](https://book.douban.com/subject/25898562/)
+- [《高性能MySQL》](https://book.douban.com/subject/23008813/)
+- [《MySQL性能调优与架构设计》](https://book.douban.com/subject/3729677/)
+- [《MySQL技术内幕_InnoDB存储引擎》](https://book.douban.com/subject/24708143/)
+- [《MySQL内核：InnoDB存储引擎》](https://book.douban.com/subject/25872763/)
 
-Redis                  
-        《Redis开发与运维》                                    - redis基础书籍，《Redis实战》内容基本被本书囊括
-        《Redis深度历险》                                      - redis实战加强            
-        《Redis设计与实现》                                    - redis内核研究
+Redis：
+- [《Redis开发与运维》](https://book.douban.com/subject/26971561/)
+- [《Redis深度历险》](https://book.douban.com/subject/30386804/)
+- [《Redis设计与实现》](https://book.douban.com/subject/25900156/)
 
-MongoDB
-        《MongoDB权威指南》                                   - 入门工具书
-        《MongoDB实战》
+MongoDB：
+- [《MongoDB权威指南》](https://book.douban.com/subject/25798102/)
+- [《MongoDB实战》](https://book.douban.com/subject/19977785/)
 
-PostgreSQL
-        《PostgreSQL修炼之道》                                - 官方文档的精简汉化
-        《PostgreSQL技术内幕》                                - 干货满满，值得珍藏
-        《PostgreSQL 数据库内核分析》
+PostgreSQL：
+- [《PostgreSQL修炼之道》](https://book.douban.com/subject/26389922/)
+- [《PostgreSQL技术内幕》](https://book.douban.com/subject/30256561/)
+- [《PostgreSQL 数据库内核分析》](https://book.douban.com/subject/6971366/)
 
-Oracle
-        《涂抹Oracle》                                      - 基础学习
-        《收获，不止Oracle》                                 - 基础学习
-        《Oracle Database 9i/10g/11g编程艺术》               - 深入学习
-        《Oracle性能诊断艺术》                                - 深入学习
-        《Oracle高效设计》                                   - 深入学习
-        《深入解析Oracle》                                   - 架构学习
-        《Oracle DBA手记2》                                  - 架构学习
-        《构建Oracle高可用环境》                              - 架构学习
-        《DBA的思想天空》                                    - 架构学习
-        《Oracle RAC日记》                                  - 架构学习
-```
+Oracle：
+- [《涂抹Oracle》](https://book.douban.com/subject/4196676/)
+- [《收获，不止Oracle》](https://book.douban.com/subject/23857303/)
+- [《Oracle Database 9i/10g/11g编程艺术》](https://book.douban.com/subject/5402711/)
+- [《Oracle性能诊断艺术》](https://book.douban.com/subject/4076215/)
+- [《Oracle高效设计》](https://book.douban.com/subject/1503909/)
+- [《深入解析Oracle》](https://book.douban.com/subject/3393767/)
+- [《Oracle DBA手记2》](https://book.douban.com/subject/5362865/)
+- [《构建Oracle高可用环境》](https://book.douban.com/subject/2531036/)
+- [《DBA的思想天空》](https://book.douban.com/subject/19966085/)
+- [《Oracle RAC日记》](https://book.douban.com/subject/4838427/)
+
 
 ## 二 Linux
 
-```
-基础入门
-        《鸟哥的私房菜》                                        - 基础入门，篇幅巨大
-        《Linux程序设计》第4版                                  - 适合入门
-        《Linux/UNIX系统编程手册》
-        《Unix/Linux编程实践教程》
-        《Linux C编程一站式学习》                               - 国产难得好书，适合学习C语言使用
-        《Linux多线程服务端编程》                                - 大部头，适合0基础到深入
-        《Linux高性能服务器编程》                                 - 国内较为经典的Linux初级著作
-
-深入浅出
-        《UNIX环境高级编程》                                    - 进阶Unix的框架、函数、多进程、网络
-        《Linux内核设计与实现》                                  - 短小精悍入门书
-        《Linux设备驱动程序》第3版                      
-        《Unix网络编程》卷1和卷2
-        《Linux/UNIX系统编程》
-
-追本溯源                          
-        《Linux内核源代码情景分析》
-        《深入理解Linux内核》                           
-        《深入Linux内核架构》                           
-
-华山论剑      
-        - [《性能之巅》](https://book.douban.com/subject/26586598/)： 
-```
+- [《鸟哥的私房菜》](https://book.douban.com/subject/4889838/)
+- [《Linux程序设计》第4版](https://book.douban.com/subject/4831448/)
+- [《Linux/UNIX系统编程手册》](https://book.douban.com/subject/25809330/)
+- [《Unix/Linux编程实践教程》](https://book.douban.com/subject/1219329/)
+- [《Linux C编程一站式学习》](https://book.douban.com/subject/4141733/)
+- [《Linux多线程服务端编程》](https://book.douban.com/subject/20471211/)
+- [《Linux高性能服务器编程》](https://book.douban.com/subject/24722611/)
+- [《UNIX环境高级编程》](https://book.douban.com/subject/25900403/)
+- [《Linux内核设计与实现》](https://book.douban.com/subject/6097773/)
+- [《Linux设备驱动程序》第3版](https://book.douban.com/subject/1723151/)
+- [《Unix网络编程》卷1和卷2](https://book.douban.com/subject/1500149/)
+- [《Linux/UNIX系统编程》](https://book.douban.com/subject/25809330/)
+- [《Linux内核源代码情景分析》](https://book.douban.com/subject/1231584/)
+- [《深入理解Linux内核》](https://book.douban.com/subject/2287506/)
+- [《深入Linux内核架构》](https://book.douban.com/subject/4843567/)
+- [《性能之巅》](https://book.douban.com/subject/26586598/)
 
 ## 三 web容器
 
-```
-Nginx
-        《实战Nginx》                                     - Nginx没有多好的初级书，该树可用于参考
-        《Nginx实战：基于Lua语言的配置、开发与架构详解》        - Nginx入门书籍
-        《深入理解Nginx：模块开发与架构解析》第2版              - Nginx深入学习书籍
+Nginx:
+- [《Nginx实战：基于Lua语言的配置、开发与架构详解》](https://book.douban.com/subject/30459546/)
+- [《深入理解Nginx：模块开发与架构解析》第2版](https://book.douban.com/subject/26745255/)
 
-Tomcat  
-        《Tomcat架构解析》
-        《深入剖析Tomcat》
-```
 
+Tomcat
+- [《Tomcat架构解析》](https://book.douban.com/subject/27034717/)
+- [《深入剖析Tomcat》](https://book.douban.com/subject/10426640/)
 
 ## 四 大数据
 
-```     
-        《大数据技术体系详解》                                  - 算是入门的技术概念普及
-        《Hadoop技术内幕》
-        《大数据日知录》
-```
+- [《大数据技术体系详解》](https://book.douban.com/subject/30213139/)
+- [《大数据之路》](https://book.douban.com/subject/27074564/)
+- [《大数据技术原理与应用（第2版）》](https://book.douban.com/subject/27606713/)
+- [《Hadoop技术内幕》](https://book.douban.com/subject/24375031/)
+- [《大数据日知录》](https://book.douban.com/subject/25984046/)
+
+## Docker与k8s
+
+- [《深入浅出Docker》](https://book.douban.com/subject/30486354/)
+- [《第一本Docker书 修订版》](https://book.douban.com/subject/26780404/)
+- [《Docker——容器与容器云（第2版）》](https://book.douban.com/subject/26894736/)
+- [《每天5分钟玩转Kubernetes》](https://book.douban.com/subject/30186113/)
+- [《Kubernetes in Action》](https://book.douban.com/subject/26997846/)
+- [《深入浅出Prometheus》](https://book.douban.com/subject/33391107/)
+
+## 其他
+
+- [《Kafka权威指南》](https://book.douban.com/subject/27665114/)

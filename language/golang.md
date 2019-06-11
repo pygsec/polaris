@@ -1,11 +1,13 @@
-## go语言书籍
+## Go语言相关资料
+
+#### Go语言书籍
 
 - [《Go语言从入门到进阶实战》](https://book.douban.com/subject/30240200/)：语法基础，详细解释了Go语法，入门力荐，但此书貌似比较冷门
 - [《GoWeb编程》](https://book.douban.com/subject/27204133/)：Go语言Web编程基础
 - [《Go并发编程》](https://book.douban.com/subject/27016236/)：详细解释Go并发模型与使用，部分语句组织欠佳
 - [《Go语言学习笔记》](https://book.douban.com/subject/26832468/)：言简意赅，深入浅出，难得好书，力荐
 
-## go语言资料
+#### Go语言资料
 
 - [《Go语言圣经》](https://github.com/gopl-zh/gopl-zh.github.com)
 - [《Go42》](https://github.com/ffhelicopter/Go42)

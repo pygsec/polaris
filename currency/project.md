@@ -1,75 +1,49 @@
-## 软件工程
+## 软件架构与工程
 
-```
-        《重构》
-        《编程之美》
-        《大话设计模式》
-        《Head First设计模式》
-        《设计模式-可复用软件的设计》
-        《图解设计模式》
-        《代码大全》
+#### 架构-web架构
 
-        《敏捷软件开发》
-        《解析极限编程》
-        《解析极限编程-拥抱变化》
-        《测试驱动开发by Example》
-        《敏捷开发-敏捷软件开发》
+- [《从零开始学架构》](https://book.douban.com/subject/30335935/)
+- [《互联网创业核心技术:构建可伸缩的web应用》](https://book.douban.com/subject/26906846/)
+- [《架构即未来:现代企业可扩展的Web架构、流程和组织》](https://book.douban.com/subject/26765979/)
+- [《大型网站技术架构》](https://book.douban.com/subject/25723064/)
+- [《企业应用架构模式》](https://book.douban.com/subject/4826290/)
+- [《系统架构 : 复杂系统的产品设计与开发》](https://book.douban.com/subject/26938710/)
+- [《架构整洁之道》](https://book.douban.com/subject/30333919/)
+- [《图解服务器端网络架构》](https://book.douban.com/subject/26369253/)    
+- [《企业IT架构转型之道》](https://book.douban.com/subject/27039508/)
+- [《数据密集型应用系统设计》](https://book.douban.com/subject/30329536/)  
 
-        《超越传统的软件开发》
-        《人月神话》
+#### 架构-微服务
 
-```
+- [《Spring微服务实战》](https://book.douban.com/subject/30233791/)
+- [《Spring Cloud微服务实战》](https://book.douban.com/subject/27025912/)
+- [《架构探险：轻量级微服务架构》](https://book.douban.com/subject/27115266/)
+- [《生产微服务》](https://book.douban.com/subject/27127050/)
+- [《微服务设计》](https://book.douban.com/subject/26772677/)        
 
-## 架构
-```
-web架构
-        《从零开始学架构》
-        《互联网创业核心技术:构建可伸缩的web应用》
-        《架构即未来:现代企业可扩展的Web架构、流程和组织》
-        《大型网站技术架构》
-        《企业应用架构模式》
-        《系统架构 : 复杂系统的产品设计与开发》
-        《架构整洁之道》
-        《图解服务器端网络架构》
+#### 架构-分布式
 
-微服务
-        《Spring微服务实战》
-        《深入理解Spring Cloud与微服务构建》                      - 入门书籍
-        《Spring Cloud微服务实战》                              - 入门书籍
-        《架构探险：轻量级微服务架构》
-        《生产微服务》
-        《微服务设计》
-        
-        
-分布式应用
-        《分布式系统常用技术及案例分析》                           - 适合完全不了解分布式时的概念普及
+- [《分布式系统：概念与设计》](https://book.douban.com/subject/21624776/)
+- [《RabbitMQ实战指南》](https://book.douban.com/subject/27591386/)
+- [《分布式服务架构》](https://book.douban.com/subject/27091029/)
+- [《从Paxos到Zookeeper分布式一致性原理与实践》](https://book.douban.com/subject/26292004/)
+- [《分布式对象存储》](https://book.douban.com/subject/25723658/)
+- [《大规模分布式存储系统》](https://book.douban.com/subject/25723658/)
 
-        《分布式系统：概念与设计》
-        《分布式系统：原理与范型》
-        《分布式操作系统》(Tanenbaum)
-        
-        《RabbitMQ实战:高效部署分布式消息队列》
-        《分布式服务框架原理与实践》
-        《大型分布式网站架构设计与实践》
-        《从Paxos到Zookeeper分布式一致性原理与实践》
-        《分布式对象存储》
-        《大规模分布式存储系统》
-        《Kubernetes in Action》
-        《Kafka权威指南》
-        《企业IT架构转型之道》
-        《数据密集型应用系统设计》
+#### 设计模式
 
-        《反应式设计模式》
-        《面向模式的软件架构》
+- [《大话设计模式》](https://book.douban.com/subject/2334288/)
+- [《Head First设计模式》](https://book.douban.com/subject/2243615/)
+- [《设计模式-可复用软件的设计》](https://book.douban.com/subject/1052241/)
+- [《图解设计模式》](https://book.douban.com/subject/26933281/)
+- [《反应式设计模式》](https://book.douban.com/subject/30417742/)
+- [《面向模式的软件架构》](https://book.douban.com/subject/25741382/)
+    
 
-Docker与k8s
-        《深入浅出Docker》
-        《第一本Docker书 修订版》
-        《Docker实践》
-        《Docker——容器与容器云（第2版）》
+#### 软件工程
 
-        《每天5分钟玩转Kubernetes》
-        《Kubernetes in Action》
-
-        《深入浅出Prometheus》
-```
+- [《重构》](https://book.douban.com/subject/4262627/)
+- [《代码大全》](https://book.douban.com/subject/1477390/)
+- [《敏捷软件开发》](https://book.douban.com/subject/1140457/)
+- [《解析极限编程》](https://book.douban.com/subject/1790225/)
+- [《人月神话》](https://book.douban.com/subject/26358448/)

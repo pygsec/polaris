@@ -14,10 +14,9 @@
 #### 通用书籍
 
 - [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
-- [计算机三巨头](https://github.com/ruyuejun/polaris/blob/master/currency/bigthree.md)：包括操作系统(这里指Linux)，计算机网络，编译原理
+- [计算机五巨头](https://github.com/ruyuejun/polaris/blob/master/currency/fiveg.md)：微机原理，操作系统，计算机网络，编译原理，算法
 - [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
-- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，tomcat，haddoop等
-
+- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，haddoop等
 
 #### 编程语言书籍
 
@@ -30,7 +29,7 @@
 
 #### 考研书籍
 
-- [考研书籍](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括高等数学，线性代数，概率论，英语一，政治，数据结构，计算机组成，操作系统，计算机网络
+- [考研资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括高等数学，线性代数，概率论，英语一，政治，数据结构，计算机组成，操作系统，计算机网络
 
 ## 笔记索引
 
@@ -41,11 +40,11 @@
 对上述仓库的分类索引：  
 - [JavaScript](https://github.com/overnote/JavaScript)：包含网页、JS、前端工程化、Node、vue、react等JS相关领域技术
 - [Go](https://github.com/overnote/Golang)：详尽的Go领域笔记，包括语法、并发编程、web编程、微服务等
-- [Java]()a：整理中
+- [Java]()：整理中，Java篇幅过大，整理困难，可能会鸽
 - [Python]()：整理中
 - [Server](https://github.com/overnote/Server)：包含常用服务端技术：Nginx、mysql、redis、mongodb、linux系统等
 - [数据结构与算法](https://github.com/overnote/Algorithm)：数据结构与算法笔记，主讲Go版本，另附JS，Java版本，未来可能增加C版
-- [考研]()：整理中
+- [计算机考研]()：整理中
 
 截图如下：
 ![](./images/note.png)
