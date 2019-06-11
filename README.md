@@ -14,7 +14,7 @@
 #### 通用书籍
 
 - [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
-- [计算机六巨头](https://github.com/ruyuejun/polaris/blob/master/currency/sixg.md)：计算机组成原理，操作系统，计算机网络，编译原理，算法与C语言程序，数据库概论
+- [计算机六巨头](https://github.com/ruyuejun/polaris/blob/master/currency/sixg.md)：计算机组成原理，操作系统，计算机网络，算法与C语言程序，数据库概论,编译原理
 - [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
 - [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，haddoop等
 - [考研书籍](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括计算机，数学，英语，政治等考研所需资料
@@ -30,9 +30,9 @@
 
 ## 笔记索引
 
-这是笔者书写或者整理自他人的知识笔记，尽量做到详尽，深入，以及循序渐进。  
+[推荐书籍](https://github.com/ruyuejun/polaris)：综合了所有技术对应的书籍与书评 https://github.com/ruyuejun/polaris  
 
-开发知识汇总组织:https://github.com/overnote  
+[知识笔记汇总仓库](https://github.com/overnote)：所有技术笔记所在组织 https://github.com/overnote   
 
 对上述仓库的分类索引：  
 - [Server](https://github.com/overnote/server)：包含常用服务端技术：Nginx、mysql、redis、mongodb、linux系统等
@@ -41,16 +41,5 @@
 - [Go](https://github.com/overnote/golang)：详尽的Go领域笔记，包括语法、并发编程、web编程、微服务等
 - [Java](https://github.com/overnote/java)：整理中，Java篇幅过大，整理困难，可能会鸽
 - [Python](https://github.com/overnote/python)：整理中
-- [计算机考研](https://github.com/overnote/sixg)：整理中
-
-截图如下：
-![](./images/note.png)
-
-## 工具索引
-
-- [常用工具](https://github.com/ruyuejun/polaris/blob/master/toolsite/tools.md)：
-
-## 网站索引
-
-- [常用网站](https://github.com/ruyuejun/polaris/blob/master/toolsite/sites.md)：
-
+- [计算机底层六巨头](https://github.com/overnote/sixg)：计算机组成原理，操作系统，网络，数据结构与C程序设计，数据库概论，编译原理
+- [通用考研笔记](https://github.com/overnote/postgraduate)：高等数学，线性代数，英语，政治
