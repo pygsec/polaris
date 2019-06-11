@@ -16,3 +16,8 @@
 - [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [《研磨设计模式-Go实现》](https://github.com/senghoo/golang-design-pattern)
+
+#### Go视频资料
+
+- [韩顺平go基础](https://www.bilibili.com/video/av35928275) 
+- [Go微服务实战(收费)](https://study.163.com/course/introduction.htm?courseId=1209302815)
