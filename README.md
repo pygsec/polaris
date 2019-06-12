@@ -14,9 +14,9 @@
 #### 通用书籍
 
 - [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
-- [计算机五巨头](https://github.com/ruyuejun/polaris/blob/master/currency/fiveg.md)：微机原理，操作系统，计算机网络，编译原理，算法
+- [计算机六巨头](https://github.com/ruyuejun/polaris/blob/master/currency/fiveg.md)：微机原理，操作系统，计算机网络，编译原理，数据结构与程序设计，数据库
 - [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
-- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，haddoop等
+- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx等
 
 #### 编程语言书籍
 
@@ -44,7 +44,7 @@
 - [Go](https://github.com/overnote/golang)：详尽的Go领域笔记，包括语法、并发编程、web编程、微服务等
 - [Java](https://github.com/overnote/java)：整理中，Java篇幅过大，整理困难，可能会鸽
 - [Python](https://github.com/overnote/python)：整理中
-- [计算机考研](https://github.com/overnote/postgraduate)：整理中
+- [计算机六巨头](https://github.com/overnote/sixg)：整理中，将包括：微机原理，操作系统，计算机网络，编译原理，数据结构与程序设计，数据库，考研数学，英语，政治等
 
 截图如下：
 ![](./images/note.png)
