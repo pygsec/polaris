@@ -14,9 +14,10 @@
 #### 通用书籍
 
 - [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
-- [计算机六巨头](https://github.com/ruyuejun/polaris/blob/master/currency/fiveg.md)：微机原理，操作系统，计算机网络，编译原理，数据结构与程序设计，数据库
+- [计算机六巨头](https://github.com/ruyuejun/polaris/blob/master/currency/sixg.md)：计算机组成原理，操作系统，计算机网络，算法与C语言程序，数据库概论,编译原理
 - [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
-- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx等
+- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，haddoop等
+- [考研教材与资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括计算机，数学，英语，政治等考研所需资料
 
 #### 编程语言书籍
 
@@ -24,18 +25,13 @@
 - [JavaScript](https://github.com/ruyuejun/polaris/blob/master/language/javascript.md)：包括网页开发，JS语言，Node三类书籍
 - [Go](https://github.com/ruyuejun/polaris/blob/master/language/golang.md)：市面上经典Go书整合
 - [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
-- [C与C++]()：整理中
 - [Rust](https://github.com/ruyuejun/polaris/blob/master/language/rust.md)：市面上经典Rust书整合
-
-#### 考研书籍
-
-- [考研资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括高等数学，线性代数，概率论，英语一，政治，数据结构，计算机组成，操作系统，计算机网络
 
 ## 笔记索引
 
-这是笔者书写或者整理自他人的知识笔记，尽量做到详尽，深入，以及循序渐进。  
+[推荐书籍](https://github.com/ruyuejun/polaris)：综合了所有技术对应的书籍与书评 https://github.com/ruyuejun/polaris  
 
-开发知识汇总组织:https://github.com/overnote  
+[知识笔记汇总仓库](https://github.com/overnote)：所有技术笔记所在组织 https://github.com/overnote   
 
 对上述仓库的分类索引：  
 - [Server](https://github.com/overnote/server)：包含常用服务端技术：Nginx、mysql、redis、mongodb、linux系统等
@@ -56,4 +52,3 @@
 ## 网站索引
 
 - [常用网站](https://github.com/ruyuejun/polaris/blob/master/toolsite/sites.md)：
-
