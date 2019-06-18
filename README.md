@@ -14,10 +14,9 @@
 #### 通用书籍
 
 - [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/algorithm.md)：从入门到进阶涉及到的全部数据结构，算法书籍推荐合集
-- [计算机五巨头](https://github.com/ruyuejun/polaris/blob/master/currency/sixg.md)：计算机组成原理，操作系统，计算机网络，算法与程序设计，编译原理
-- [软件工程与架构](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，微服务等
-- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，haddoop等
-- [考研教材与资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：包括计算机，数学，英语，政治等考研所需资料
+- [计算机五巨头](https://github.com/ruyuejun/polaris/blob/master/currency/five-x.md)：计算机组成原理，操作系统，计算机网络，算法与程序设计，编译原理以及考研相关资料
+- [软件工程](https://github.com/ruyuejun/polaris/blob/master/currency/project.md)：包括设计模式，敏捷开发，项目管理，项目架构等
+- [服务端工具](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括服务端常用工具：mysql，redis，nginx，haddoop
 
 #### 编程语言书籍
 
