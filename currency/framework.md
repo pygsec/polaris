@@ -1,5 +1,3 @@
-## 软件架构与工程
-
 #### 架构-web架构
 
 - [《从零开始学架构》](https://book.douban.com/subject/30335935/)
@@ -38,12 +36,3 @@
 - [《图解设计模式》](https://book.douban.com/subject/26933281/)
 - [《反应式设计模式》](https://book.douban.com/subject/30417742/)
 - [《面向模式的软件架构》](https://book.douban.com/subject/25741382/)
-    
-
-#### 软件工程
-
-- [《重构》](https://book.douban.com/subject/4262627/)
-- [《代码大全》](https://book.douban.com/subject/1477390/)
-- [《敏捷软件开发》](https://book.douban.com/subject/1140457/)
-- [《解析极限编程》](https://book.douban.com/subject/1790225/)
-- [《人月神话》](https://book.douban.com/subject/26358448/)
