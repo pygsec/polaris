@@ -95,12 +95,6 @@
 - [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
 - [Rust](https://github.com/ruyuejun/polaris/blob/master/language/rust.md)：市面上经典Rust书整合
 
-[OverNote](https://github.com/overnote)各大编程语言笔记合集：
-- [JavaScript](https://github.com/overnote/javascript)：包含网页、JS、前端工程化、Node、vue、react等JS相关领域技术
-- [Go](https://github.com/overnote/golang)：详尽的Go领域笔记，包括语法、并发编程、web编程、微服务等
-- [Java](https://github.com/overnote/java)：整理中，Java篇幅过大，整理困难，可能会鸽
-- [Python](https://github.com/overnote/python)：整理中
-
 ## 六 考研资料推荐
 
 - [考研资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)
