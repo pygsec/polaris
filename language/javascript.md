@@ -33,6 +33,7 @@
 
 #### Node书籍
 
+- [《狼书（卷1）：更了不起的Node.js》](https://book.douban.com/subject/33950116/)：Node基础介绍，入门力荐
 - [《Koa与Node.js开发实战》](https://book.douban.com/subject/30404722/)：《Node In Action》也是经典，但大部分内容被本书涵盖，且本书更详细
 - [《深入浅出Node.js》](https://book.douban.com/subject/25768396/)：Node书籍中的瑰宝
 - [《Node.js:来一打C++扩展》](https://book.douban.com/subject/30247892/)： 
