@@ -16,7 +16,7 @@
 
 - [《数据结构》(邓俊辉)](https://book.douban.com/subject/25859528/)：C++编写，数据结构书籍集大成者，简洁，详细，深入，笔者力荐。
 
-贴士：如果完全0基础可以看[《大话数据结构》(通用)](https://book.douban.com/subject/6424904/)、[《学习JavaScript数据结构与算法》(JS书写)](https://book.douban.com/subject/26639401/)
+贴士：如果完全0基础可以看[《大话数据结构》](https://book.douban.com/subject/6424904/)(通用)、[《学习JavaScript数据结构与算法》](https://book.douban.com/subject/26639401/)(JS书写)
 
 #### 1.2 算法入门
 
