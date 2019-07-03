@@ -1,10 +1,11 @@
 #### 网页书籍
 
-- [《HTML&CSS设计与构建网站》](https://book.douban.com/subject/21338365/)：适合网页开发0基础入门
+- [《Head First HTML与CSS（第2版）》](https://book.douban.com/subject/25752357/)
+- [《HTML&CSS设计与构建网站》](https://book.douban.com/subject/21338365/)
 - [《CSS揭秘》](https://book.douban.com/subject/26745943/)
 - [《CSS世界》](https://book.douban.com/subject/27615777/)
-- [《HTML5与CSS3权威指南》第3版上册](https://book.douban.com/subject/26644632/)
-- [《图解CSS3：核心技术与案例实战》](https://book.douban.com/subject/25920727/)
+- [《HTML5与CSS3基础教程（第8版）》](https://book.douban.com/subject/25878992/)
+- [《HTML5权威指南》](https://book.douban.com/subject/25786074/)
 - [《HTML5 Canvas核心技术》](https://book.douban.com/subject/24533314/)
 
 #### JavaScript书籍
