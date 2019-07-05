@@ -44,21 +44,29 @@ Oracle：
 ## 二 Linux
 
 - [《鸟哥的私房菜》](https://book.douban.com/subject/4889838/)
-- [《Linux程序设计》第4版](https://book.douban.com/subject/4831448/)
+- [《UNIX/Linux系统管理技术手册》](https://book.douban.com/subject/10747453/)
 - [《Linux/UNIX系统编程手册》](https://book.douban.com/subject/25809330/)
 - [《Unix/Linux编程实践教程》](https://book.douban.com/subject/1219329/)
 - [《Linux C编程一站式学习》](https://book.douban.com/subject/4141733/)
+- [《Linux命令行与shell脚本编程大全》](https://book.douban.com/subject/26854226/)
+
+- [《深入理解Linux网络技术内幕》](https://book.douban.com/subject/4015134/)
+- [《Linux程序设计》第4版](https://book.douban.com/subject/4831448/)
 - [《Linux多线程服务端编程》](https://book.douban.com/subject/20471211/)
 - [《Linux高性能服务器编程》](https://book.douban.com/subject/24722611/)
-- [《UNIX环境高级编程》](https://book.douban.com/subject/25900403/)
-- [《Linux内核设计与实现》](https://book.douban.com/subject/6097773/)
+- [《构建高可用Linux服务器(第3版)》](https://book.douban.com/subject/26347915/)
+- [《树莓派开始，玩转Linux》](https://book.douban.com/subject/30259573/)
+- [《嵌入式Linux基础教程（第2版）》](https://book.douban.com/subject/10599779/)
+
+- [《Linux内核设计与实现》第3版](https://book.douban.com/subject/6097773/)
 - [《Linux设备驱动程序》第3版](https://book.douban.com/subject/1723151/)
-- [《Unix网络编程》卷1和卷2](https://book.douban.com/subject/1500149/)
-- [《Linux/UNIX系统编程》](https://book.douban.com/subject/25809330/)
-- [《Linux内核源代码情景分析》](https://book.douban.com/subject/1231584/)
-- [《深入理解Linux内核》](https://book.douban.com/subject/2287506/)
+- [《Linux内核源码剖析》](https://book.douban.com/subject/5914256/)
+- [《深入理解Linux内核》第3版](https://book.douban.com/subject/2287506/)
+- [《Linux内核完全剖析》](https://book.douban.com/subject/3229243/)
 - [《深入Linux内核架构》](https://book.douban.com/subject/4843567/)
-- [《性能之巅》](https://book.douban.com/subject/26586598/)
+- [《Linux内核修炼之道》](https://book.douban.com/subject/4895627/)
+- [《深度探索Linux操作系统》](https://book.douban.com/subject/25743846/)
+- [《Linux内核设计的艺术》](https://book.douban.com/subject/24708145/)
 
 ## 三 web容器
 

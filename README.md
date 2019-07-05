@@ -12,11 +12,19 @@
 
 ## 一 数据结构与算法
 
+#### 1.0 程序设计
+
+ - [《C Primer Plus》第6版](https://book.douban.com/subject/26792521/)
+ - [《C++ Primer 中文版》第5版](https://book.douban.com/subject/25708312/)
+ - [《一站式学习C编程》](https://book.douban.com/subject/6025290/)
+
 #### 1.1 数据结构
 
 - [《数据结构》(邓俊辉)](https://book.douban.com/subject/25859528/)：C++编写，数据结构书籍集大成者，简洁，详细，深入，笔者力荐。
 
-贴士：如果完全0基础可以看[《大话数据结构》](https://book.douban.com/subject/6424904/)(通用)、[《学习JavaScript数据结构与算法》](https://book.douban.com/subject/26639401/)(JS书写)
+0基础可以看：
+- [《大话数据结构》](https://book.douban.com/subject/6424904/)：C++编写，语言幽默，但是有些地方有错误
+- [《学习JavaScript数据结构与算法》](https://book.douban.com/subject/26639401/)：JS书写，适合JS程序员0基础入门
 
 #### 1.2 算法入门
 
@@ -49,36 +57,81 @@
 - [JULY博主](https://blog.csdn.net/v_july_v)：算法讲解私人博客
 - [oRblt专栏](https://blog.csdn.net/orbit)：算法讲解私人博客
 
-## 二 计算机五巨头
+## 二 操作系统
 
-#### 2.1 程序设计与数据结构
+#### 1.1 通用书籍
 
-数据结构与算法章节已经在第一章列出。
-
-#### 2.2 计算机原理
-
-- [《计算机组成与设计：硬件/软件接口》](https://book.douban.com/subject/2110638/)
-
-#### 2.3 操作系统
-
+- [《现代操作系统》第4版](https://book.douban.com/subject/27096665/)：必读经典
+- [《操作系统》第6版-William Stallings](https://book.douban.com/subject/5064311/)
+- [《操作系统导论》](https://book.douban.com/subject/33463930/)
+- [《操作系统概念》第9版](https://book.douban.com/subject/30297919/)
 - [《深入理解计算机系统》](https://book.douban.com/subject/1230413/)
-- [《现代操作系统》](https://book.douban.com/subject/3852290/)
+- [《计算机系统》](https://book.douban.com/subject/26616929/)
+- [《嵌入式实时操作系统μC/OS-III》](https://book.douban.com/subject/20389564/)
+- [《操作系统设计：Xinu方法》](https://book.douban.com/subject/25772410/)
+- [《一个64位操作系统的设计与实现》](https://book.douban.com/subject/30222325/)
+- [《自己动手写操作系统》](https://book.douban.com/subject/1422377/)
+- [《Orange'S:一个操作系统的实现》](https://book.douban.com/subject/3735649/)
 
-#### 2.4 计算机网络
+#### 1.2 Unix系统
+
+- [《UNIX环境高级编程》第3版](https://book.douban.com/subject/25900403/)：必读经典
+- [《Unix网络编程》卷1和卷2第3版](https://book.douban.com/subject/26434583/)：必读经典
+- [《性能之巅》](https://book.douban.com/subject/26586598/)：必读经典
+- [《Unix编程艺术》](https://book.douban.com/subject/11609943/)
+- [《UNIX操作系统设计》](https://book.douban.com/subject/1035710/)
+- [《Unix内核源码剖析》](https://book.douban.com/subject/25831005/)
+- [《现代体系结构上的UNIX系统》](https://book.douban.com/subject/26290762/)
+
+#### 1.3 Win与Mac
+- [《深入解析Windows操作系统》第6版](https://book.douban.com/subject/25844377/)
+- [《深入解析Mac OS X & iOS操作系统》](https://book.douban.com/subject/25870206/)
+
+#### 1.4 Linux
+
+- [Linux书籍推荐](https://github.com/overnote/five-x/blob/master/serverside.md)：Linux与生产环境结合密切，本套笔记着重理论，Linux书籍位于serverside仓库
+
+## 三 计算机网络
 
 - [《计算机网络 自顶向下方法》](https://book.douban.com/subject/1116437/)
 - [《图解HTTP》](https://book.douban.com/subject/25863515/)
 - [《HTTP权威指南》](https://book.douban.com/subject/10746113/)
 - [《图解TCP/IP》](https://book.douban.com/subject/24737674/)
-- [《TCP/IP详解》](https://book.douban.com/subject/1088054/)   
-- [《图解服务器端网络架构》](https://book.douban.com/subject/26369253/)   
+- [《TCP/IP详解》](https://book.douban.com/subject/1088054/)    
+- [《图解服务器端网络架构》](https://book.douban.com/subject/26369253/)  
 
-#### 2.5 编译原理
+## 四 计算机组成原理
+
+- [《计算机组成与设计：硬件/软件接口》](https://book.douban.com/subject/2110638/)
+
+## 五 编译原理
 
 - [《编译原理》](https://book.douban.com/subject/3296317/)
 - [《计算机程序的构造与解释》](https://book.douban.com/subject/1148282/)
 
-## 三 软件工程
+## 六 考研资料推荐
+
+- [考研资料](https://github.com/overnote/five-x/blob/master/postgraduate.md)：计算机考研，数学，英语，政治等资料汇总
+
+## 七 生产实践书籍
+
+#### 7.0 编程语言书籍推荐
+
+- [Java](https://github.com/ruyuejun/polaris/blob/master/language/java.md)：包括Java基础，JavaWeb，Java框架等
+- [JavaScript](https://github.com/ruyuejun/polaris/blob/master/language/javascript.md)：包括网页开发，JS语言，Node三类书籍
+- [Go](https://github.com/ruyuejun/polaris/blob/master/language/golang.md)：市面上经典Go书整合
+- [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
+- [Rust](https://github.com/ruyuejun/polaris/blob/master/language/rust.md)：市面上经典Rust书整合
+
+#### 7.1 常用技术类书籍
+
+- [服务端常用技术书籍](https://github.com/ruyuejun/polaris/blob/master/currency/serverside.md)：包括各类数据库mysql，redis以及linux，docker等书籍推荐
+
+#### 7.2 架构书籍：微服务、分布式
+
+- [架构-分布式、微服务书籍](https://github.com/ruyuejun/polaris/blob/master/currency/architecture.md)：包括设计模式、软件架构、系统架构等
+
+##### 7.3 工程类书籍
 
 - [《重构》](https://book.douban.com/subject/4262627/)
 - [《代码大全》](https://book.douban.com/subject/1477390/)
@@ -86,21 +139,7 @@
 - [《解析极限编程》](https://book.douban.com/subject/1790225/)
 - [《人月神话》](https://book.douban.com/subject/26358448/)
 
-## 四 服务端技术、架构
-
-- [服务端常用技术书籍](https://github.com/ruyuejun/polaris/blob/master/currency/server.md)：包括各类数据库mysql，redis以及linux，docker等书籍推荐
-- [架构-分布式、微服务书籍](https://github.com/ruyuejun/polaris/blob/master/currency/architecture.md)：包括设计模式、软件架构、系统架构等
-
-## 五 编程语言类
-
-编程语言类书籍进行了分门别类整理：
-- [Java](https://github.com/ruyuejun/polaris/blob/master/language/java.md)：包括Java基础，JavaWeb，Java框架等
-- [JavaScript](https://github.com/ruyuejun/polaris/blob/master/language/javascript.md)：包括网页开发，JS语言，Node三类书籍
-- [Go](https://github.com/ruyuejun/polaris/blob/master/language/golang.md)：市面上经典Go书整合
-- [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
-- [Rust](https://github.com/ruyuejun/polaris/blob/master/language/rust.md)：市面上经典Rust书整合
-
-## 六 设计模式
+#### 7.4 设计模式书籍
 
 - [《大话设计模式》](https://book.douban.com/subject/2334288/)
 - [《Head First设计模式》](https://book.douban.com/subject/2243615/)
@@ -109,9 +148,6 @@
 - [《反应式设计模式》](https://book.douban.com/subject/30417742/)
 - [《面向模式的软件架构》](https://book.douban.com/subject/25741382/)
 
-## 七 考研资料推荐
-
-- [考研资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)
 
 ## 附录：笔记汇总
 
@@ -121,7 +157,7 @@
 
 **OverNote分类**：  
 - [架构-分布式与微服务](https://github.com/overnote/architecture/)：分布式与微服务相关
-- [计算机底层五巨头](https://github.com/overnote/fivex)：算法、操作系统、网络、组成原理、编译原理
+- [计算机底层五巨头](https://github.com/overnote/fivex)：算法、操作系统、网络、组成原理、编译原理，附录数学/英语/政治考研笔记
 - [服务端常用技术](https://github.com/overnote/serverside)：Nginx、mysql、redis、mongodb、linux系统等
 - [Go](https://github.com/overnote/golang)：详尽的Go领域笔记，包括语法、并发编程、web编程、微服务等
 - [JavaScript](https://github.com/overnote/javascript)：包含网页、JS、前端工程化、Node、vue、react、小程序等JS相关领域技术
