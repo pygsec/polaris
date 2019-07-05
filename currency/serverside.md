@@ -1,4 +1,31 @@
-## 一 数据库
+## 一 Linux书籍
+
+- [《鸟哥的私房菜》](https://book.douban.com/subject/4889838/)
+- [《UNIX/Linux系统管理技术手册》](https://book.douban.com/subject/10747453/)
+- [《Linux/UNIX系统编程手册》](https://book.douban.com/subject/25809330/)
+- [《Unix/Linux编程实践教程》](https://book.douban.com/subject/1219329/)
+- [《Linux C编程一站式学习》](https://book.douban.com/subject/4141733/)
+- [《Linux命令行与shell脚本编程大全》](https://book.douban.com/subject/26854226/)
+
+- [《深入理解Linux网络技术内幕》](https://book.douban.com/subject/4015134/)
+- [《Linux程序设计》第4版](https://book.douban.com/subject/4831448/)
+- [《Linux多线程服务端编程》](https://book.douban.com/subject/20471211/)
+- [《Linux高性能服务器编程》](https://book.douban.com/subject/24722611/)
+- [《构建高可用Linux服务器(第3版)》](https://book.douban.com/subject/26347915/)
+- [《树莓派开始，玩转Linux》](https://book.douban.com/subject/30259573/)
+- [《嵌入式Linux基础教程（第2版）》](https://book.douban.com/subject/10599779/)
+
+- [《Linux内核设计与实现》第3版](https://book.douban.com/subject/6097773/)
+- [《Linux设备驱动程序》第3版](https://book.douban.com/subject/1723151/)
+- [《Linux内核源码剖析》](https://book.douban.com/subject/5914256/)
+- [《深入理解Linux内核》第3版](https://book.douban.com/subject/2287506/)
+- [《Linux内核完全剖析》](https://book.douban.com/subject/3229243/)
+- [《深入Linux内核架构》](https://book.douban.com/subject/4843567/)
+- [《Linux内核修炼之道》](https://book.douban.com/subject/4895627/)
+- [《深度探索Linux操作系统》](https://book.douban.com/subject/25743846/)
+- [《Linux内核设计的艺术》](https://book.douban.com/subject/24708145/)
+
+## 二 数据库书籍
 
 通用类：
 - [《数据库系统概念》](https://book.douban.com/subject/10548379/)
@@ -40,34 +67,6 @@ Oracle：
 - [《DBA的思想天空》](https://book.douban.com/subject/19966085/)
 - [《Oracle RAC日记》](https://book.douban.com/subject/4838427/)
 
-
-## 二 Linux
-
-- [《鸟哥的私房菜》](https://book.douban.com/subject/4889838/)
-- [《UNIX/Linux系统管理技术手册》](https://book.douban.com/subject/10747453/)
-- [《Linux/UNIX系统编程手册》](https://book.douban.com/subject/25809330/)
-- [《Unix/Linux编程实践教程》](https://book.douban.com/subject/1219329/)
-- [《Linux C编程一站式学习》](https://book.douban.com/subject/4141733/)
-- [《Linux命令行与shell脚本编程大全》](https://book.douban.com/subject/26854226/)
-
-- [《深入理解Linux网络技术内幕》](https://book.douban.com/subject/4015134/)
-- [《Linux程序设计》第4版](https://book.douban.com/subject/4831448/)
-- [《Linux多线程服务端编程》](https://book.douban.com/subject/20471211/)
-- [《Linux高性能服务器编程》](https://book.douban.com/subject/24722611/)
-- [《构建高可用Linux服务器(第3版)》](https://book.douban.com/subject/26347915/)
-- [《树莓派开始，玩转Linux》](https://book.douban.com/subject/30259573/)
-- [《嵌入式Linux基础教程（第2版）》](https://book.douban.com/subject/10599779/)
-
-- [《Linux内核设计与实现》第3版](https://book.douban.com/subject/6097773/)
-- [《Linux设备驱动程序》第3版](https://book.douban.com/subject/1723151/)
-- [《Linux内核源码剖析》](https://book.douban.com/subject/5914256/)
-- [《深入理解Linux内核》第3版](https://book.douban.com/subject/2287506/)
-- [《Linux内核完全剖析》](https://book.douban.com/subject/3229243/)
-- [《深入Linux内核架构》](https://book.douban.com/subject/4843567/)
-- [《Linux内核修炼之道》](https://book.douban.com/subject/4895627/)
-- [《深度探索Linux操作系统》](https://book.douban.com/subject/25743846/)
-- [《Linux内核设计的艺术》](https://book.douban.com/subject/24708145/)
-
 ## 三 web容器
 
 Nginx:
@@ -86,16 +85,3 @@ Tomcat
 - [《大数据技术原理与应用（第2版）》](https://book.douban.com/subject/27606713/)
 - [《Hadoop技术内幕》](https://book.douban.com/subject/24375031/)
 - [《大数据日知录》](https://book.douban.com/subject/25984046/)
-
-## Docker与k8s
-
-- [《深入浅出Docker》](https://book.douban.com/subject/30486354/)
-- [《第一本Docker书 修订版》](https://book.douban.com/subject/26780404/)
-- [《Docker——容器与容器云（第2版）》](https://book.douban.com/subject/26894736/)
-- [《每天5分钟玩转Kubernetes》](https://book.douban.com/subject/30186113/)
-- [《Kubernetes in Action》](https://book.douban.com/subject/26997846/)
-- [《深入浅出Prometheus》](https://book.douban.com/subject/33391107/)
-
-## 其他
-
-- [《Kafka权威指南》](https://book.douban.com/subject/27665114/)

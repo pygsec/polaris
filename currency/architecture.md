@@ -1,6 +1,6 @@
-## 架构
+## 一 架构资料
 
-#### 系统架构
+#### 1.1 系统架构书籍
 
 - [《从零开始学架构》](https://book.douban.com/subject/30335935/)
 - [《大型网站技术架构》李智慧](https://book.douban.com/subject/25723064/)
@@ -12,7 +12,7 @@
 - [《架构修炼之道》](https://book.douban.com/subject/33389549/)
 - [《银行信息系统架构》](https://book.douban.com/subject/26677445/)
 
-#### 分布式
+#### 1.2 分布式书籍
 
 原理篇：
 - [《分布式系统：概念与设计》](https://book.douban.com/subject/21624776/)
@@ -25,7 +25,7 @@
 - [《大规模分布式存储系统》](https://book.douban.com/subject/25723658/)
 - [《RabbitMQ实战指南》](https://book.douban.com/subject/27591386/)
 
-#### 微服务
+#### 1.2 微服务书籍
 
 原理篇：
 - [《生产微服务》](https://book.douban.com/subject/27127050/)
@@ -39,7 +39,7 @@
 - [《架构探险：轻量级微服务架构》](https://book.douban.com/subject/27115266/)
 - [《Spring Cloud微服务实战》](https://book.douban.com/subject/27025912/)
 
-## 视频
+#### 1.3 视频
 
 - [MIT 6.824(英)](https://www.bilibili.com/video/av38073607)
 - [麻省大学：分布式系统概念及分布式操作系统原理(英)](https://www.bilibili.com/video/av45207204)
@@ -54,6 +54,6 @@
 - [springboot微服务架构阶段全套教程](https://www.bilibili.com/video/av47580663)
 - [微服务安全架构与案例实践](https://www.bilibili.com/video/av49293128)
 
-## 网址
+#### 1.4 网址
 
 - [ddia中文翻译](https://github.com/Vonng/ddia)

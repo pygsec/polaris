@@ -22,7 +22,7 @@
 
 - [《数据结构》(邓俊辉)](https://book.douban.com/subject/25859528/)：C++编写，数据结构书籍集大成者，简洁，详细，深入，笔者力荐。
 
-0基础可以看：
+完全0基础可以看：
 - [《大话数据结构》](https://book.douban.com/subject/6424904/)：C++编写，语言幽默，但是有些地方有错误
 - [《学习JavaScript数据结构与算法》](https://book.douban.com/subject/26639401/)：JS书写，适合JS程序员0基础入门
 
@@ -131,7 +131,11 @@
 
 - [架构-分布式、微服务书籍](https://github.com/ruyuejun/polaris/blob/master/currency/architecture.md)：包括设计模式、软件架构、系统架构等
 
-##### 7.3 工程类书籍
+#### 7.3 大数据书籍
+
+===TODO====
+
+##### 7.4 工程类书籍
 
 - [《重构》](https://book.douban.com/subject/4262627/)
 - [《代码大全》](https://book.douban.com/subject/1477390/)
@@ -139,7 +143,7 @@
 - [《解析极限编程》](https://book.douban.com/subject/1790225/)
 - [《人月神话》](https://book.douban.com/subject/26358448/)
 
-#### 7.4 设计模式书籍
+#### 7.5 设计模式书籍
 
 - [《大话设计模式》](https://book.douban.com/subject/2334288/)
 - [《Head First设计模式》](https://book.douban.com/subject/2243615/)
