@@ -12,19 +12,18 @@
 
 ## 一 数据结构与算法
 
-#### 1.0 程序设计
-
- - [《C Primer Plus》第6版](https://book.douban.com/subject/26792521/)
- - [《C++ Primer 中文版》第5版](https://book.douban.com/subject/25708312/)
- - [《一站式学习C编程》](https://book.douban.com/subject/6025290/)
-
 #### 1.1 数据结构
 
-- [《数据结构》(邓俊辉)](https://book.douban.com/subject/25859528/)：C++编写，数据结构书籍集大成者，简洁，详细，深入，笔者力荐。
+完全零基础推荐：
+- [《大话数据结构》](https://book.douban.com/subject/6424904/)：C++书写，语言幽默，但是有些地方有错误
+- [《学习JavaScript数据结构与算法》第3版](https://book.douban.com/subject/33441631/)：JS书写，适合JS程序员0基础入门
 
-完全0基础可以看：
-- [《大话数据结构》](https://book.douban.com/subject/6424904/)：C++编写，语言幽默，但是有些地方有错误
-- [《学习JavaScript数据结构与算法》](https://book.douban.com/subject/26639401/)：JS书写，适合JS程序员0基础入门
+数据结构经典教材：
+- [《数据结构》(邓俊辉)](https://book.douban.com/subject/25859528/)：数据结构书籍集大成者，简洁，详细，深入，笔者力荐。
+
+数据结构与算法提升，请选择对应语言：
+- [《数据结构与算法分析》-C语言描述](https://book.douban.com/subject/4924153/)：案头必备
+- [《数据结构与算法分析》-Java语言描述](https://book.douban.com/subject/26745780/)：案头必备，与上书相同
 
 #### 1.2 算法入门
 
@@ -89,7 +88,7 @@
 
 #### 1.4 Linux
 
-- [Linux书籍推荐](https://github.com/overnote/five-x/blob/master/serverside.md)：Linux与生产环境结合密切，本套笔记着重理论，Linux书籍位于serverside仓库
+- [Linux书籍推荐](https://github.com/ruyuejun/polaris/blob/master/currency/serverside.md)：Linux与生产环境结合密切，本套笔记着重理论，Linux书籍位于serverside仓库
 
 ## 三 计算机网络
 
@@ -111,7 +110,7 @@
 
 ## 六 考研资料推荐
 
-- [考研资料](https://github.com/overnote/five-x/blob/master/postgraduate.md)：计算机考研，数学，英语，政治等资料汇总
+- [考研资料](https://github.com/ruyuejun/polaris/blob/master/currency/postgraduate.md)：计算机考研，数学，英语，政治等资料汇总
 
 ## 七 生产实践书籍
 
