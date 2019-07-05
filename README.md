@@ -31,7 +31,6 @@
 - [《算法新解》](https://book.douban.com/subject/26931430/)：言简意赅，不错的算法入门书
 - [《算法笔记》](https://book.douban.com/subject/26827295/)：涵盖了大部分常见算法，是难得的算法入门笔记
 - [《算法设计与分析基础》第3版](https://book.douban.com/subject/26337727/)：Java书写的经典算法入门书籍
-- [《数据结构与算法分析-**语言描述》](https://book.douban.com/subject/1139426/)：算法书籍的入门经典，笔者推荐C或者Java语言版
 - [《编程珠玑》](https://book.douban.com/subject/3227098/)：为算法提供了精辟的解题思路，是算法思想学习的瑰宝
 
 #### 1.3 算法进阶
