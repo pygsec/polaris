@@ -18,9 +18,9 @@
 
 #### 基础学科书籍
 
-- [数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/basic-algorithm.md)
-- [计算机核心基础-计算机组成原理、网络、编译原理](https://github.com/ruyuejun/polaris/blob/master/currency/basic-base.md)：包含组成原理、计算机网络、编译原理
-- [计算机核心基础-操作系统](https://github.com/ruyuejun/polaris/blob/master/currency/basic-system.md)：包含系统概述、原理、实践、Unix/Linux、win/mac
+- [计算机核心基础-1-数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/basic-algorithm.md)：包含数据结构书籍、算法从初级、进阶类书籍、面试类书籍、竞赛类书籍
+- [计算机核心基础-2-底层原理](https://github.com/ruyuejun/polaris/blob/master/currency/basic-base.md)：包含组成原理、计算机网络、编译原理
+- [计算机核心基础-3-操作系统](https://github.com/ruyuejun/polaris/blob/master/currency/basic-system.md)：包含操作系统概述、原理、实践、Unix/Linux、win/mac
 
 #### 应用方向书籍
 
