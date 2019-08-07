@@ -8,6 +8,12 @@
 
 ## 一 书籍汇总
 
+#### 基础学科书籍
+
+- [计算机核心基础-1-数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/basic-algorithm.md)：包含数据结构书籍、算法从初级、进阶类书籍、面试类书籍、竞赛类书籍
+- [计算机核心基础-2-底层原理](https://github.com/ruyuejun/polaris/blob/master/currency/basic-base.md)：包含组成原理、计算机网络、编译原理
+- [计算机核心基础-3-操作系统](https://github.com/ruyuejun/polaris/blob/master/currency/basic-system.md)：包含操作系统概述、原理、实践、Unix/Linux、win/mac
+
 #### 编程语言书籍
 
 - [Go](https://github.com/ruyuejun/polaris/blob/master/language/golang.md)：市面上经典Go书整合
@@ -15,12 +21,6 @@
 - [Java](https://github.com/ruyuejun/polaris/blob/master/language/java.md)：包括Java基础，JavaWeb，Java框架等
 - [Python](https://github.com/ruyuejun/polaris/blob/master/language/python.md)：市面上经典Python书整合
 - [Rust](https://github.com/ruyuejun/polaris/blob/master/language/rust.md)：市面上经典Rust书整合
-
-#### 基础学科书籍
-
-- [计算机核心基础-1-数据结构与算法](https://github.com/ruyuejun/polaris/blob/master/currency/basic-algorithm.md)：包含数据结构书籍、算法从初级、进阶类书籍、面试类书籍、竞赛类书籍
-- [计算机核心基础-2-底层原理](https://github.com/ruyuejun/polaris/blob/master/currency/basic-base.md)：包含组成原理、计算机网络、编译原理
-- [计算机核心基础-3-操作系统](https://github.com/ruyuejun/polaris/blob/master/currency/basic-system.md)：包含操作系统概述、原理、实践、Unix/Linux、win/mac
 
 #### 应用方向书籍
 
